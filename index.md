@@ -7,6 +7,14 @@ This page exists to be a repository of common answers to problems we have as Eng
 
 > [ACM@UIUC](acm.illinois.edu).
 
+### About
+This repo is based on 
+
+ * [jbranchaud/til](https://github.com/jbranchaud/til)
+ * [thoughtbot/til](https://github.com/thoughtbot/til)
+
+and many of the intial TILs are from those repos. 
+
 ### Contributing
 
 If you have something you would like to add, submit a Pull Request. 
