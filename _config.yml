@@ -1,0 +1,74 @@
+# ----
+# Site
+
+title: ACM@UIUC TIL
+url: "https://til.acm.illinois.edu"
+baseurl:
+google_analytics_key:
+show_full_navigation: true
+
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /siteicon.png
+description: Things we learned.
+author:
+  name: ACM@UIUC
+  email: til@acm.illinois.edu
+  twitter: ACM-UIUC# twitter username without the @ symbol
+social:
+  name: ACM@UIUC TIL
+  links:
+    - https://github.com/acm-uiuc
+
+# -----
+# Build
+
+permalink: pretty
+
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+  - CONTRIBUTING.md
+
+collections:
+  til:
+    title: Things We Learned
+    permalink: /til/:path/
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+  -
+    scope:
+      path: ""
+      type: "til"
+    values:
+      seo:
+        type: Article
+      _comments:
+        category: Group navigation links with this field
+        order: Used to sort links in the navigation
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      _comments:
+        type: Marks the impact of this release
+
+# -----------
+# CloudCannon
+
+types:
+  - minor
+  - major
