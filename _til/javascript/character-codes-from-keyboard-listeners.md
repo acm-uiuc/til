@@ -1,6 +1,6 @@
 --- 
 title: Character Codes from Keyboard Listeners
-catagory: javascript
+category: javascript
 ---
 
 If I create the following keyboard event listeners for `keydown`,

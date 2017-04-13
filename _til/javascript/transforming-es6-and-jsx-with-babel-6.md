@@ -1,6 +1,6 @@
 --- 
 title: Transforming ES6 and JSX With Babel 6
-catagory: javascript
+category: javascript
 ---
 
 With Babel 5, transforming ES6 and JSX into ES5 code was accomplished by

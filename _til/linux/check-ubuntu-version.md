@@ -1,6 +1,6 @@
 --- 
 title: Check Ubuntu Version
-catagory: linux
+category: linux
 ---
 
 Are you on Ubuntu? Want to know what version (release) of Ubuntu you are

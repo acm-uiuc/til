@@ -1,6 +1,6 @@
 --- 
 title: Upgrading Ubuntu
-catagory: linux
+category: linux
 ---
 
 

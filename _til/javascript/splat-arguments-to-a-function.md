@@ -1,6 +1,6 @@
 --- 
 title: Splat Arguments To A Function
-catagory: javascript
+category: javascript
 ---
 
 Often times you have a function that takes a certain set of arguments. Like

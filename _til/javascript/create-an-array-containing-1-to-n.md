@@ -1,6 +1,6 @@
 --- 
 title: Create An Array Containing 1 To N
-catagory: javascript
+category: javascript
 ---
 
 Some languages, such as Ruby, have a built in range constraint that makes it

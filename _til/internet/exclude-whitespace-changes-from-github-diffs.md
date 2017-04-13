@@ -1,6 +1,6 @@
 --- 
 title: Exclude Whitespace Changes From GitHub Diffs
-catagory: internet
+category: internet
 ---
 
 If you run a tidy ship and use plugins like

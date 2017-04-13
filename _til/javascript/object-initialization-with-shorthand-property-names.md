@@ -1,6 +1,6 @@
 --- 
 title: Object Initialization With Shorthand Property Names
-catagory: javascript
+category: javascript
 ---
 
 If I have some variables:

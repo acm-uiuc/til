@@ -1,6 +1,6 @@
 --- 
 title: Functional Expressions in D&D 
-catagory: javascript
+category: javascript
 ---
 
 I've been having fun with functions while creating a JavaScript version of the 5th edition D&D character sheet.

@@ -1,6 +1,6 @@
 --- 
 title: Accessing Arguments To A Function
-catagory: javascript
+category: javascript
 ---
 
 The `arguments` object is available within any JavaScript function. It is

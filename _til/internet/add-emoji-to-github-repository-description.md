@@ -1,6 +1,6 @@
 ---
 title: Add Emoji To GitHub Repository Description
-catagory: internet
+category: internet
 ---
 
 GitHub restricts the set of unicode characters that can appear in the

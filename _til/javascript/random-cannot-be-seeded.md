@@ -1,6 +1,6 @@
 --- 
 title: Random Cannot Be Seeded
-catagory: javascript
+category: javascript
 ---
 
 In JavaScript, you can use `Math.random()` to get a *sorta* random value.

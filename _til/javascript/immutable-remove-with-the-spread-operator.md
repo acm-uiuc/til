@@ -1,6 +1,6 @@
 --- 
 title: Immutable Remove With The Spread Operator
-catagory: javascript
+category: javascript
 ---
 
 ES6 introduces the [spread

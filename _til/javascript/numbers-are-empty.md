@@ -1,6 +1,6 @@
 --- 
 title: Numbers Are Empty
-catagory: javascript
+category: javascript
 ---
 
 The [`lodash`](https://lodash.com/) project comes with a ton of handy

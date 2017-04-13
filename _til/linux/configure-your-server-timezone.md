@@ -1,6 +1,6 @@
 --- 
 title: Configure Your Server Timezone
-catagory: linux
+category: linux
 ---
 
 On Ubuntu and Debian, you can open an interactive prompt for configuring

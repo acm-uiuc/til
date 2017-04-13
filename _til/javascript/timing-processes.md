@@ -1,6 +1,6 @@
 --- 
 title: Timing Processes
-catagory: javascript
+category: javascript
 ---
 
 If you want to time a process, you can use the `console.time()` and

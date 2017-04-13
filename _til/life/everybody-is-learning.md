@@ -1,6 +1,6 @@
 --- 
 title: Everybody is learning
-catagory: life
+category: life
 ---
 
 Today I learned that no matter how much experience, skill, or education

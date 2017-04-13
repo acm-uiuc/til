@@ -1,6 +1,6 @@
 --- 
 title: List The Statuses Of All Upstart Jobs
-catagory: linux
+category: linux
 ---
 
 To see a list of all known upstart jobs and their statuses, use the

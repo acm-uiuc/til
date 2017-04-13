@@ -1,6 +1,6 @@
 --- 
 title: Throttling A Function Call
-catagory: javascript
+category: javascript
 ---
 
 Imagine you have a JavaScript function that makes a request to your server.

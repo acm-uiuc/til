@@ -1,6 +1,6 @@
 --- 
 title: Prototype Your (Character) Class
-catagory: javascript
+category: javascript
 ---
 
 Continuing in [using Javascript to build D&D characters](https://github.com/thoughtbot/til/blob/master/javascript/funWithFunctions.md), I decided to use prototypes.

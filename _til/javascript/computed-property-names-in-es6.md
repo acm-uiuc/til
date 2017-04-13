@@ -1,6 +1,6 @@
 --- 
 title: Computed Property Names In ES6
-catagory: javascript
+category: javascript
 ---
 
 Perhaps more often than not, property names in an object are based on

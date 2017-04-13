@@ -1,6 +1,6 @@
 --- 
 title: Truthiness of Integer Arrays
-catagory: javascript
+category: javascript
 ---
 
 We can consider the truthiness of `[1]` as follows:
