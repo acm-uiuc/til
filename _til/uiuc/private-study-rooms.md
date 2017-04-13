@@ -1,0 +1,6 @@
+---
+title: Private Study Rooms
+category: uiuc
+---
+
+Ensuring you have a good place to work and study at school is crucial if you are to do well. If you are able to do this in your room, awesome! If not, there are several other options available. Most of the dorms make a study room available to residents. These will often take the form of a large room with may desks and sometimes a few computers. Some will have smaller private study rooms which are nice. If this does not work for you, the libraries are another nice alternative (Grainger Engineering Library, the Undergraduate Library, the Main Library, ACES Library, etc. depending on your location). By nature, these places are quiet and have plenty of semi-private desks to work at. Another alternative (and one of my personal favorites) is to utilize classrooms that are not reserved/in-use. The classrooms are quiet, have plenty of desks, and also have dry-erase boards for working out problems. Just be courteous and clean up after yourself. You will also need to vacate the room if somebody who has it reserved shows up. Finally, the Illini Union is always a nice place to work. They have rooms devoted to studying as well as some places to grab good (try out the Qdoba Gumbos!) or drinks (ie Starbucks, Jamba Juice) with tables (if you prefer a little background noise).
