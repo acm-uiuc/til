@@ -1,4 +1,7 @@
-# Resetting A Reset
+---
+title: Resetting A Reset 
+category: git
+---
 
 Sometimes we run commands like `git reset --hard HEAD~` when we shouldn't
 have. We wish we could undo what we've done, but the commit we've *reset* is

@@ -1,4 +1,7 @@
-# Untrack A Directory Of Files Without Deleting
+---
+title: Untrack A Directory Of Files Without Deleting
+category: git
+---
 
 In [Untrack A File Without Deleting It](untrack-a-file-without-deleting-it.md),
 I explained how a specific file can be removed from tracking without

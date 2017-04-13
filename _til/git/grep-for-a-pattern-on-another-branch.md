@@ -1,4 +1,7 @@
-# Grep For A Pattern On Another Branch
+---
+title: Grep For A Pattern On Another Branch
+category: git
+---
 
 Git has a built-in `grep` command that works essentially the same as the
 standard `grep` command that unix users are used to. The benefit of

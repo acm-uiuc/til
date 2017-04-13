@@ -1,4 +1,7 @@
-# Stashing Untracked Files
+---
+title: Stashing Untracked Files
+category: git
+---
 
 Normally when stashing changes, using `git stash`, git is only going to
 stash changes to *tracked* files. If there are any new files in your project

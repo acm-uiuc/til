@@ -1,4 +1,7 @@
-# Update The URL Of A Remote
+---
+title: Update The URL Of A Remote
+category: git
+---
 
 I just changed the name of a Github repository. One of the implications of
 this is that the remote URL that my local git repository has on record is

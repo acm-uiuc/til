@@ -1,4 +1,8 @@
-# Grep Over Commit Messages
+---
+title: Grep Over Commit Messages 
+category: git
+---
+
 
 The `git log` command supports a `--grep` flag that allows you to do a text
 search (using grep, obviously) over the commit messages for that repository.

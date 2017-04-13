@@ -1,4 +1,7 @@
-# Verbose Commit Message
+---
+title: Verbose Commit Message
+category: git
+---
 
 Git allows you to display a *diff* of the staged changes in the commit
 message buffer. This gives you the opportunity to carefully craft your

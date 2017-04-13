@@ -1,4 +1,7 @@
-# Untrack A File Without Deleting It
+---
+title: Untrack A File Without Deleting It
+category: git
+---
 
 Generally when I invoke `git rm <filename>`, I do so with the intention of
 removing a file from the project entirely. `git-rm` does exactly that,

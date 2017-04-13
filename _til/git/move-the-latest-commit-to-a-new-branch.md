@@ -1,4 +1,7 @@
-# Move The Latest Commit To A New Branch
+---
+title: Move The Latest Commit To A New Branch
+category: git
+---
 
 I sometimes find myself making a commit against the `master` branch that I
 intended to make on a new branch. To get this commit on a new branch, one

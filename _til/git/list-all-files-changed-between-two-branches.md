@@ -1,4 +1,7 @@
-# List All Files Changed Between Two Branches
+---
+title: List All Files Changed Between Two Branches 
+category: git
+---
 
 The `git-diff` command can help with finding all files that have changed
 between two branches. For instance, if you are at the `HEAD` of your current

@@ -1,4 +1,7 @@
-# Two ways of squashing commits
+---
+title: Two ways of squashing commits
+category: git
+---
 
 It is handy to squash down your commits before merging your PR with
 `my-new-cool-feature`. You can either squash them down by doing an interactive

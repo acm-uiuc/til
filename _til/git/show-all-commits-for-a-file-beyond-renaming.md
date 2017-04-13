@@ -1,4 +1,7 @@
-# Show All Commits For A File Beyond Renaming
+---
+title: Show All Commits For A File Beyond Renaming 
+category: git
+---
 
 By including `-- <filename>` with a `git log` command, we can list all the
 commits for a file. The following is an example of such a command with some

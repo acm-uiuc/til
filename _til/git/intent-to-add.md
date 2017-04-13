@@ -1,4 +1,7 @@
-# Intent To Add
+---
+title: Intent To Add 
+category: git
+---
 
 Git commands like `git diff` and `git add --patch` are awesome, but their
 little caveat is that they only work on files that are currently tracked in

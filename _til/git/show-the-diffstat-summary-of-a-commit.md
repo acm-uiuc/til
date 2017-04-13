@@ -1,4 +1,7 @@
-# Show The diffstat Summary Of A Commit
+---
+title: Show The diffstat Summary Of A Commit
+category: git
+---
 
 Use the `--stat` flag when running `git show` on a commit to see the
 `diffstat` summary of that commit. For instance, this is what I get for a

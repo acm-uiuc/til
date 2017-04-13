@@ -1,4 +1,7 @@
-# Last Commit A File Appeared In
+---
+title: Last Commit A File Appeared In 
+category: git
+---
 
 In my project, I have a `README.md` file that I haven't modified in a while.
 I'd like to take a look at the last commit that modified it. The `git log`

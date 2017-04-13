@@ -1,4 +1,7 @@
-# What Is The Current Branch?
+---
+title: What Is The Current Branch?
+category: git
+---
 
 This question can be answered with one of git's plumbing commands,
 `rev-parse`.

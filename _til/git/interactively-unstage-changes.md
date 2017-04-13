@@ -1,4 +1,7 @@
-# Interactively Unstage Changes
+---
+title: Interactively Unstage Changes 
+category: git
+---
 
 I often use `git add --patch` to interactively stage changes for a commit.
 Git takes me through changes to tracked files piece by piece to check if I

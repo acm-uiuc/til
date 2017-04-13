@@ -1,4 +1,7 @@
-# Renaming A Branch
+---
+title: Renaming A Branch 
+category: git
+---
 
 The `-m` flag can be used with `git branch` to move/rename an existing
 branch. If you are already on the branch that you want to rename, all you

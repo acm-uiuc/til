@@ -1,4 +1,7 @@
-# List Filenames Without The Diffs
+---
+title: List Filenames Without The Diffs 
+category: git
+---
 
 The `git show` command will list all changes for a given reference
 including the diffs. With diffs included, this can get rather verbose at

@@ -1,4 +1,7 @@
-# Viewing A File On Another Branch
+---
+title: Viewing A File On Another Branch
+category: git
+---
 
 Sometimes you want to view a file on another branch (without switching
 branches). That is, you want to view the version of that file as it exists

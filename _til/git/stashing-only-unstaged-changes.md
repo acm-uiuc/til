@@ -1,4 +1,7 @@
-# Stashing Only Unstaged Changes
+---
+title: Stashing Only Unstaged Changes
+category: git
+---
 
 If you have both staged and unstaged changes in your project, you can
 perform a stash on just the unstaged ones by using the `-k` flag. The

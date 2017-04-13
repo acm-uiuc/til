@@ -1,4 +1,7 @@
-# List Different Commits Between Two Branches
+---
+title: List Different Commits Between Two Branches 
+category: git
+---
 
 There are times when I want to get a sense of the difference between two
 branches. I don't want to look at the actual diff though, I just want to see

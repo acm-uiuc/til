@@ -1,4 +1,7 @@
-# Split Up a Commit, Rewrite History
+---
+title: Split Up a Commit, Rewrite History
+category: git
+---
 
 When working on a branch with multiple commits, you can "go back in time" and revise previous commits any way you please.
 

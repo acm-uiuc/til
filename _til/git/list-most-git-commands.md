@@ -1,4 +1,7 @@
-# List Most Git Commands
+---
+title: List Most Git Commands 
+category: git
+---
 
 You can list most git commands by using the `-a` flag with `git-help`:
 

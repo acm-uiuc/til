@@ -1,4 +1,7 @@
-# Using git's osxkeychain helper to cache GitHub authentication
+---
+title: Using git's osxkeychain helper to cache GitHub authentication
+category: git
+---
 
 Recently after reformatting my computer I've had to input my username/password
 every time I try to do something with GitHub via the command line. Today I took

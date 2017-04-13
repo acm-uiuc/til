@@ -1,4 +1,7 @@
-# Whitespace Warnings
+---
+title: Whitespace Warnings
+category: git
+---
 
 You can configure git to warn you about whitespace issues in a file when you
 diff it. This is handled by the `core.whitespace` configuration. Add the

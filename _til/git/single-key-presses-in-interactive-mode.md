@@ -1,4 +1,7 @@
-# Single Key Presses in Interactive Mode
+---
+title: Single Key Presses in Interactive Mode
+category: git
+---
 
 When staging changes in interactive mode (`git add -p`), you have a number
 of options associated with single keys. `y` is *yes*, `n` is *no*, `a` is

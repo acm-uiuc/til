@@ -1,4 +1,7 @@
-# List Untracked Files
+---
+title: List Untracked Files
+category: git
+---
 
 Git's `ls-files` command is a plumbing command that allows you to list
 different sets of files based on the state of the working directory. So, if

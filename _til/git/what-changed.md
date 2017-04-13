@@ -1,28 +1,30 @@
-# What Changed?
-
+---
+title: What Changed?
+category: git
+---
 If you want to know what has changed at each commit in your Git history,
 then just ask `git whatchanged`.
 
 ```bash
 $ git whatchanged
 
-commit ddc929c03f5d629af6e725b690f1a4d2804bc2e5
-Author: jbranchaud <jbranchaud@gmail.com>
-Date:   Sun Feb 12 14:04:12 2017 -0600
+commit e961c93a0ef1f59d56cdf740fd400470bd47d504
+Author: Naren <naren@narendasan.com>
+Date:   Wed Apr 12 15:30:17 2017 -0700
 
-    Add the source to the latest til
+    a attribution
 
-:100644 100644 f6e7638... 2b192e1... M  elixir/compute-md5-digest-of-a-string.md
+:100644 100644 bb1ad6c... 0bd0aa8... M  index.md
 
-commit 65ecb9f01876bb1a7c2530c0df888f45f5a11cbb
-Author: jbranchaud <jbranchaud@gmail.com>
-Date:   Sat Feb 11 18:34:25 2017 -0600
+commit ae3683134c485a9ad42268179047a1bf71b50b53
+Author: Naren <naren@narendasan.com>
+Date:   Wed Apr 12 15:28:26 2017 -0700
 
-    Add Compute md5 Digest Of A String as an Elixir til
+    a Jekyll site
 
-:100644 100644 5af3ca2... 7e4794f... M  README.md
-:000000 100644 0000000... f6e7638... A  elixir/compute-md5-digest-of-a-string.md
-
+:000000 100644 0000000... c442299... A  .gitignore
+:000000 100644 0000000... aa65c1c... A  404.md
+:000000 100644 0000000... 1090241... A  CONTRIBUTING.md
 ...
 ```
 
