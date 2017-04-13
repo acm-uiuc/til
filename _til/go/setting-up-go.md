@@ -1,4 +1,7 @@
-# Setting Up Go
+---
+title: Setting Up Go
+category: go
+---
 
 While installing the golang executable is relitvely straight forward:
 

@@ -1,4 +1,7 @@
-# Not So Random
+---
+title: Not So Random
+category: go
+---
 
 Go's `rand` package makes it easy to generate all sorts of pseudo-random
 numbers. So if you write a program like so:

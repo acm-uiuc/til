@@ -1,4 +1,7 @@
-# Replace The Current Process With An External Command
+---
+title: Replace The Current Process With An External Command
+category: go
+---
 
 Go's `syscall.Exec` function can be used to execute an external program.
 Instead of forking a child process though, it runs the external command in

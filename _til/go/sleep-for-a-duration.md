@@ -1,4 +1,7 @@
-# Sleep For A Duration
+---
+title: Sleep For A Duration
+category: go
+---
 
 Many languages allow you to sleep for a certain number of milliseconds. In
 those languages, you can give `500` or `1000` to the sleep function to
