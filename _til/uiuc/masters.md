@@ -1,0 +1,6 @@
+---
+title: Master Program
+category: uiuc
+---
+
+There are three main options for you if you are considering continuing beyond your bachelors. The first is an MCS. The MCS program at UIUC is only open to CS students in the College of Engineering. The application for it (as of now) is relatively straightforward: have a gpa greater than 3.2, fill out a sheet with your info, turn it in. No recommendations, no essay questions. This program is a 5th year masters program for CS students and your 4th year of undergrad will count for part of the masters. There is no thesis option, and you can’t TA for a course (basically this is for students who want extra courses and a masters under their belt). The next is the MS which is also a 5th year program. However, this program is with a thesis, requires a minimum 3.5 gpa, and has recommendations and essay questions involved. This masters can be free (tuition wise) if you are a TA. Finally, you can choose to apply to a full masters program at another school. By applying to a regular 2 year masters program, you will have more requirements (i.e. taking a GRE exam, full college apps), but you can also have better opportunities for PHD programs or building up your research portfolio if you have more than 1 year to dedicate to your masters. You can also grow your network at another school. 
