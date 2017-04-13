@@ -10,8 +10,7 @@ Everyone understands that dorm rooms aren't the largest, but
 leaving an open area where everyone can hang out and having 
 some extra seats can affect whether your room becomes the "social" 
 room where everyone wants to hang out or not. Something like http:
-//www.bedbathandbeyond.com/store/product/sit-and-store-folding-storage-ottoman/3241845 c
-an be good for the dual purpose of storage and an extra seat. All dorms 
+//www.bedbathandbeyond.com/store/product/sit-and-store-folding-storage-ottoman/3241845 can be good for the dual purpose of storage and an extra seat. All dorms 
 also have study lounges (which can be used for fun activities if nobody 
 is studying there). Make sure to get to know your special facilities 
 when you first move in (find laundry facilities, Allen/Weston/ISR/Nugent/etc.
