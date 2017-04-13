@@ -1,4 +1,7 @@
-# Constant time comparison
+--- 
+title: Constant time comparison
+category: Security
+---
 
 Using `==` to compare sensitive hashes leaves you vulnerable to timing attacks.
 This is because `==` returns `false` as soon as it finds two characters that

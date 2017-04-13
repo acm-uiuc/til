@@ -1,4 +1,7 @@
-# Lighten And Darken With SCSS
+--- 
+title: Lighten And Darken With SASS
+category: sass
+---
 
 With SCSS, a color can be lightened or darkened by a certain percentage
 using the
