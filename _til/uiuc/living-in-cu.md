@@ -47,9 +47,11 @@ Urbana has a makerspace in the basement of IMC in downtown Urbana, the Business 
 There is also the Champaign-Urbana Community Fab Lab on the south quad, the ECE Department has the Open Lab in ECEB
 and ACM has its own in the back room of the ACM office 
 
-## Fix your Bike
-There is are bike stations accross campus to pump up your tires and get access to common tools. 
-There is also the campus bike center and the Urbana Bike Project which are places to get more involved help and get access to more esoteric tools. 
+### 3D Printing 
+3D printing has become pretty popular. The Illinois MakerLab (http://makerlab.illinois.edu/) is a great resource if you want to try it out. In addition to having fairly inexpensive rates, they are also willing to help and teach people their craft. In case you do not feel like walking all the way to the BIF (the business building), ACM also acquired its own 3D printer that may be available to members and the ECE Open Lab has a couple as well. Finally, if you are the type of person who wants to play around with a 3D printer without spending time to design your own item to print, there is an online marketplace (http://www.thingiverse.com/) where people can share their already-made designs for other people to download. I would highly recommend trying out a 3D printer if you get the chance; they are a lot of fun!
+
+### Laser Cutting 
+The Open Lab and the Champaign-Urbana Community Fab Lab both have laser cutting services. 
 
 ## Shopping
 On campus, there aren’t a lot of retail stores yet. Urban Outfitters on Green street
