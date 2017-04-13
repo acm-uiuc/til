@@ -2,7 +2,7 @@
 title: Undergrad Research
 category: uiuc
 ---
-They all had very positive experiences with it. One way to get involved with 
+One way to get involved with 
 research is through PURE (https://wiki.cites.illinois.edu/wiki/display/PURE/Information). 
 This is a program designed specifically to help get underclassmen involved with research. 
 They even put on a small symposium at the end to allow the students to show off what 
