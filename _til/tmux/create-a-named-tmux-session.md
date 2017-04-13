@@ -1,4 +1,7 @@
-# Create A Named tmux Session
+---
+title: Create A Named tmux Session
+category: tmux
+---
 
 When creating a new tmux session
 

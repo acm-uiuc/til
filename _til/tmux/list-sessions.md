@@ -1,4 +1,8 @@
-# List Sessions
+---
+title: List Sessions
+category: tmux
+---
+
 
 Not sure if `tmux` is running or, if it is, which sessions are available?
 You can list all the currently running sessions right from the command-line.

@@ -1,4 +1,7 @@
-# Cycle Through Layouts
+---
+title: Cycle Through Layouts
+category: tmux
+---
 
 Arranging a series of split windows in tmux can take some time. Once those
 splits windows are arranged, it is difficult to set them up in a new way.

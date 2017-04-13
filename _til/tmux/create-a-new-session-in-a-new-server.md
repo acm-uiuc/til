@@ -1,4 +1,7 @@
-# Create A New Session In A New Server
+---
+title: Create A New Session In A New Server
+category: tmux
+---
 
 Any tmux command will, by default, be invoked against the `default`
 server. You can instruct tmux to perform commands against a different server

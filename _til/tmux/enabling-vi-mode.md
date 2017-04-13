@@ -1,4 +1,7 @@
-# Enabling Vi Mode
+---
+title: Enabling Vi Mode
+category: tmux
+---
 
 If you'd like some vim-like bindings in tmux, you can turn on vi mode. To do
 so, add the following line to your `.tmux.conf` file:

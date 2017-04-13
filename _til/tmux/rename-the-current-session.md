@@ -1,4 +1,7 @@
-# Rename The Current Session
+---
+title: Rename The Current Session
+category: tmux
+---
 
 If you've created an unnamed tmux session or you no longer like the original
 name, you can open a prompt to change it by hitting

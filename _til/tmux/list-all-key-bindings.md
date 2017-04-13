@@ -1,4 +1,7 @@
-# List All Key Bindings
+---
+title: List All Key Bindings
+category: tmux
+---
 
 There are a couple ways to list all the tmux key bindings. If you are not
 currently in a tmux session, you can still access the list from the terminal

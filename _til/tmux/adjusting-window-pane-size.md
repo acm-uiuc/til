@@ -1,4 +1,8 @@
-# Adjusting Window Pane Size
+---
+title: Adjusting Window Pane Size
+category: tmux
+---
+
 
 In tmux, the size of window panes can be adjusted incrementally with the
 `resize-pane` command. For instance, to resize a pane in any direction

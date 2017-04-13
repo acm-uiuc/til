@@ -1,4 +1,7 @@
-# Jumping Between Sessions
+---
+title: Jumping Between Sessions
+category: tmux
+---
 
 If you are using tmux to manage multiple projects by putting each project in
 a separate session, you may find yourself moving between sessions

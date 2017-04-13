@@ -1,4 +1,8 @@
-# Hiding The Status Bar
+---
+title: Hiding The Status Bar
+category: tmux
+---
+
 
 The tmux status bar is a great place to show information about your tmux
 session as well as things like the time and date. Sometimes you just want to

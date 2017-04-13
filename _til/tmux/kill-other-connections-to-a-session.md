@@ -1,4 +1,7 @@
-# Kill Other Connections To A Session
+---
+title: Kill Other Connections To A Session
+category: tmux
+---
 
 One of the best features of tmux is the ability for multiple people to
 connect to the same session in order to pair. This can, however, sometimes

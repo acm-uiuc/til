@@ -1,4 +1,7 @@
-# Paging Up And Down
+---
+title: Paging Up And Down
+category: tmux
+---
 
 When in _copy mode_ (`<prefix>[`), you can move the cursor around like you
 would in vim with the directional keys (`hjkl`). This works fine until you

@@ -1,4 +1,7 @@
-# tmux in your tmux
+---
+title: tmux in your tmux
+category: tmux
+---
 
 If you are running tmux locally and you shell into another machine to
 access tmux remotely, you will suddenly find yourself in tmux inception.

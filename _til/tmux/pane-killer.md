@@ -1,4 +1,7 @@
-# Pane Killer
+---
+title: Pane Killer
+category: tmux
+---
 
 The current pane can be _killed_ (closed) using the following key binding:
 

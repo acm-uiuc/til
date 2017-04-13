@@ -1,4 +1,7 @@
-# Organizing Windows
+---
+title: Organizing Windows
+category: tmux
+---
 
 If you use a number of tmux windows as part of your daily workflow, you may find that they get to be a bit of a mess from time to time. There are gaps in the numbering and they aren't laid out in the order you'd prefer. The `movew` command makes it easy to rearrange these windows.
 

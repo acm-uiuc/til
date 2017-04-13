@@ -1,4 +1,7 @@
-# Open New Window With A Specific Directory
+---
+title: Open New Window With A Specific Directory
+category: tmux
+---
 
 When you initially start a tmux session, the default directory is based off
 of whatever the current working directory was. Any subsequent windows opened

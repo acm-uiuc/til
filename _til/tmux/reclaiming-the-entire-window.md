@@ -1,4 +1,7 @@
-# Reclaiming The Entire Window
+---
+title: Reclaiming The Entire Window
+category: tmux
+---
 
 If you have attached to a tmux session whose dimensions are being
 constrained by another connection, you may find an L-shaped portion of your
