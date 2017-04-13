@@ -1,4 +1,7 @@
-# Fail
+--- 
+title: Fail
+category: ruby
+---
 
 The `fail` method is synonymous with `raise` in Ruby. Consider the following
 code snippet:

@@ -1,4 +1,8 @@
-# Editing Code In Pry
+--- 
+title: Editing Code In Pry
+category: ruby
+---
+
 
 [Pry](http://pryrepl.org/) provides an enhanced REPL experience for Ruby.
 One of the enhancements it provides is the ability to open your preferred

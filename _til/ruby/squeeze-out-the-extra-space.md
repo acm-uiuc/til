@@ -1,4 +1,7 @@
-# Squeeze Out The Extra Space
+---
+title: Squeeze Out The Extra Space
+category: ruby
+---
 
 Remove all the excess spaces from a string using the squeeze method:
 

@@ -1,4 +1,7 @@
-# Listing Local Variables
+---
+title:  Listing Local Variables
+category: ruby
+---
 
 In Ruby 2.2, the `binding` object gives us access to a method
 `#local_variables` which returns the symbol names of the binding's local

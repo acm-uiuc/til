@@ -1,4 +1,7 @@
-# Create Thumbnail Image For A PDF
+--- 
+title: Create Thumbnail Image For A PDF
+category: ruby
+---
 
 The [`rmagick`](https://rmagick.github.io/) gem is a wrapper around the
 [ImageMagick](http://www.imagemagick.org/script/index.php) software suite.

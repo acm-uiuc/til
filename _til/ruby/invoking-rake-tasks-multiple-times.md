@@ -1,4 +1,7 @@
-# Invoking Rake Tasks Multiple Times
+--- 
+title: Invoking Rake Tasks Multiple Times
+category: ruby
+---
 
 I have a rake task, `build`, that builds a single record for development
 purposes. I want a supplemental rake task, `build:all`, that builds a bunch

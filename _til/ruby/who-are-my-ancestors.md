@@ -1,4 +1,7 @@
-# Who Are My Ancestors?
+---
+title: Who Are My Ancestors?
+category: ruby
+---
 
 Ruby's `Module` class provides the
 [`#ancestors`](http://ruby-doc.org/core-2.1.0/Module.html#method-i-ancestors)

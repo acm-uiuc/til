@@ -1,4 +1,7 @@
-# Getting all but the first element from Ruby array
+--- 
+title: Getting all but the first element from Ruby array
+category: ruby
+---
 
 When getting all but the first element from an array in Ruby, we have a few
 options.

@@ -1,4 +1,7 @@
-# Disassemble Some Codes
+--- 
+title: Disassemble Some Codes
+category: ruby
+---
 
 The
 [`RubyVM::InstructionSequence`](http://ruby-doc.org/core-2.2.0/RubyVM/InstructionSequence.html)

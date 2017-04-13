@@ -1,4 +1,7 @@
-# Passing Arguments To A Rake Task
+---
+title: Passing Arguments To A Rake Task
+category: ruby
+---
 
 You can create a rake task that takes arguments by including an array of
 named arguments in the task declaration.

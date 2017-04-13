@@ -1,4 +1,7 @@
-# Passing Arbitrary Methods As Blocks
+---
+title: Passing Arbitrary Methods As Blocks
+category: ruby
+---
 
 Use
 [`Object#method`](http://ruby-doc.org/core-1.8.7/Object.html#method-i-method)

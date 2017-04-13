@@ -1,4 +1,7 @@
-# The `DATA` constant
+---
+title: The `DATA` constant
+category: ruby
+---
 
 The `DATA` constant in Ruby allows us to access the text at the end of our file
 listed after the `__END__` block. This can be surprisingly useful, for instance

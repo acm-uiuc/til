@@ -1,4 +1,7 @@
-# Spliting a string into a maximum number of segments
+---
+title: Spliting a string into a maximum number of segments
+category: ruby
+---
 
 [`String#split`][split docs] takes an argument to limit the number of returned
 matches. Once the limit is reached, the rest of the string is returned as one

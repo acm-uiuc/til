@@ -1,4 +1,7 @@
-# Double Splat To Merge Hashes
+--- 
+title: Double Splat To Merge Hashes
+category: ruby
+---
 
 One way of merging two hashes is with `#merge`:
 

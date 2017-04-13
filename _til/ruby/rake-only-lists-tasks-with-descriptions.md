@@ -1,4 +1,7 @@
-# Rake Only Lists Tasks With Descriptions
+---
+title: Rake Only Lists Tasks With Descriptions
+category: ruby
+---
 
 Rake describes the `-T` flag as
 

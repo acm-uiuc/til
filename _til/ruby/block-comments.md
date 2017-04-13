@@ -1,4 +1,7 @@
-# Block Comments
+--- 
+title: Block Comments
+category: ruby
+---
 
 Ruby supports (ugly) block comments. They look like this:
 

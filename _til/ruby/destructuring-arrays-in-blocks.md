@@ -1,4 +1,7 @@
-# Destructuring Arrays In Blocks
+--- 
+title: Destructuring Arrays In Blocks
+category: ruby
+---
 
 If I am iterating over a collection of arrays (let's say tuples) and I want
 to access the values of those arrays within the iteration block, I may do

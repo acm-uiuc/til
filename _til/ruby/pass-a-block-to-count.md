@@ -1,4 +1,8 @@
-# Pass A Block To Count
+---
+title: Pass A Block To Count
+category: ruby
+---
+
 
 Ruby's [`Enumerable`](http://ruby-doc.org/core-2.2.3/Enumerable.html) module
 comes with the method `#count` for determining how many items are in an

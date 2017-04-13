@@ -1,4 +1,7 @@
-# Basic Object
+--- 
+title: Basic Object
+category: ruby
+---
 
 Ruby has a `BasicObject` class which doesn't include Kernel methods and acts as
 the parent for all `Object`s. You can see the ancestry in practice via:

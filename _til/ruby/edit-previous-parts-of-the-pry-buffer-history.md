@@ -1,4 +1,7 @@
-# Edit Previous Parts Of The Pry Buffer History
+--- 
+title: Edit Previous Parts Of The Pry Buffer History
+category: ruby
+---
 
 Each line of Ruby you enter into a Pry session is recorded with a number in
 the buffer history. Pry keeps this buffer history so that you can recall

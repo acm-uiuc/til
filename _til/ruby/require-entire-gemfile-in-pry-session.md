@@ -1,4 +1,7 @@
-# Require Entire Gemfile In Pry Session
+---
+title: Require Entire Gemfile In Pry Session
+category: ruby
+---
 
 Want to experiment in a pry session with some of the gems in your project's
 `Gemfile`? You can quickly require all the gems for your project using

@@ -1,4 +1,7 @@
-# Regex Literals and URLs
+---
+title: Regex Literals and URLs
+category: ruby
+---
 
 Regular expressions in Ruby are typically delineated by the `/` character.
 However, this forces you to escape `/` in your expression.

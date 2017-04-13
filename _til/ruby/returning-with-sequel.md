@@ -1,4 +1,8 @@
-# Returning With Sequel
+---
+title:   Returning With Sequel
+category: ruby
+---
+
 
 The [`sequel`](https://github.com/jeremyevans/sequel) gem is a database
 toolkit that allows you to interact with most databases. PostgreSQL has

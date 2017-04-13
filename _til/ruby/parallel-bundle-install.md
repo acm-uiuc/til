@@ -1,4 +1,7 @@
-# Parallel Bundle Install
+---
+title: Parallel Bundle Install
+category: ruby
+---
 
 The `bundle install` command can take quite a while sometimes. This is
 especially true for when you are setting up a fresh dev environment for an

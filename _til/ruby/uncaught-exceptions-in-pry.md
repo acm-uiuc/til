@@ -1,4 +1,7 @@
-# Uncaught Exceptions In Pry
+---
+title: Uncaught Exceptions In Pry
+category: ruby
+---
 
 You are fiddling around with some code in a pry session trying to
 familiarize yourself with how it all works. You suddenly execute a statement

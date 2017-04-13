@@ -1,4 +1,7 @@
-# `undef_method` And The Inheritance Hierarchy
+---
+title: `undef_method` And The Inheritance Hierarchy
+category: ruby
+---
 
 As the docs state, Ruby's
 [`undef_method`](http://ruby-doc.org/core-2.2.0/Module.html#method-i-undef_method)

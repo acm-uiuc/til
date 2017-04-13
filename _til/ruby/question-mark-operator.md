@@ -1,4 +1,7 @@
-# Question Mark Operator
+---
+title: Question Mark Operator
+category: ruby
+---
 
 Ruby has a question mark (`?`) operator that works like so
 

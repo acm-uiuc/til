@@ -1,4 +1,7 @@
-# Defaulting To Frozen String Literals
+--- 
+title: Defaulting To Frozen String Literals
+category: ruby
+---
 
 > The cold never bothered me anyway.
 

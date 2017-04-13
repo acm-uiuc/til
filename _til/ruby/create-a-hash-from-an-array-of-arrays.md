@@ -1,4 +1,7 @@
-# Create A Hash From An Array Of Arrays
+--- 
+title: Create A Hash From An Array Of Arrays
+category: ruby
+---
 
 The `::[]` method on the `Hash` class allows you to succinctly create a hash
 from an array of arrays -- or rather an array of tuples which are key value

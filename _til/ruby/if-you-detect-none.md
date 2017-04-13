@@ -1,4 +1,7 @@
-# If You Detect None
+--- 
+title: If You Detect None
+category: ruby
+---
 
 The
 [`Enumerable#detect`](http://ruby-doc.org/core-2.2.3/Enumerable.html#method-i-detect)

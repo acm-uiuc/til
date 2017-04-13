@@ -1,4 +1,7 @@
-# Comparing Arrays In RSpec
+--- 
+title: Comparing Arrays In RSpec
+category: ruby
+---
 
 Among its many built-in matchers, RSpec includes a set of array matchers.
 One of the array matchers is `match_array` which compares two arrays

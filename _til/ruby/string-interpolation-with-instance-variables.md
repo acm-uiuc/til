@@ -1,4 +1,7 @@
-# String Interpolation With Instance Variables
+---
+title: String Interpolation With Instance Variables
+category: ruby
+---
 
 When using regular variables with string interpolation in Ruby, they must be
 wrapped in curly braces (e.g. `"This is a #{variable}"`). With instance

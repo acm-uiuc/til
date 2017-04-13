@@ -1,4 +1,7 @@
-# Running A Single MiniTest Example
+---
+title: Running A Single MiniTest Example
+category: ruby
+---
 
 Consider the following
 [MiniTest](http://ruby-doc.org/stdlib-2.0.0/libdoc/minitest/rdoc/MiniTest.html)

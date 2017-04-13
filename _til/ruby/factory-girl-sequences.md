@@ -1,4 +1,7 @@
-# FactoryGirl Sequences
+--- 
+title: FactoryGirl Sequences
+category: ruby
+---
 
 [FactoryGirl sequences](https://github.com/thoughtbot/factory_girl/blob/master/GETTING_STARTED.md#sequences)
 are often used inline for unique values such as emails:

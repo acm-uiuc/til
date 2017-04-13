@@ -1,4 +1,7 @@
-# Limit Split
+--- 
+title: Limit Split
+category: ruby
+---
 
 I've only ever used Ruby's
 [`String#split`](http://ruby-doc.org//core-2.2.0/String.html#method-i-split)

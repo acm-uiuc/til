@@ -1,4 +1,7 @@
-# Create an Array of Stringed Numbers
+--- 
+title: Create an Array of Stringed Numbers
+category: ruby
+---
 
 To create an array of numbers between `1` and `5`, I can do something like
 the following:

@@ -1,4 +1,7 @@
-# Currying in Ruby
+--- 
+title: Currying in Ruby
+category: ruby
+---
 
 Ruby defines `curry` for `Method` and `Proc`, allowing procs to return partially
 applied procs when they get called with fewer than the required number of

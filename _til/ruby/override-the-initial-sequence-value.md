@@ -1,4 +1,7 @@
-# Override The Initial Sequence Value
+---
+title: Override The Initial Sequence Value
+category: ruby
+---
 
 [FactoryGirl sequences](https://github.com/thoughtbot/factory_girl/blob/master/GETTING_STARTED.md#sequences)
 can be defined with an initial starting value

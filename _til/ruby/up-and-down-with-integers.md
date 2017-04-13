@@ -1,4 +1,7 @@
-# Up And Down With Integers
+---
+title: Up And Down With Integers
+category: ruby
+---
 
 Ruby's [`Integer`](http://ruby-doc.org/core-2.2.0/Integer.html) class comes
 with an `#upto` and a `#downto` method. Both of these methods can be used to

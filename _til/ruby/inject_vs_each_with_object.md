@@ -1,4 +1,7 @@
-# Inject vs each_with_object
+--- 
+title: Inject vs each_with_object
+category: ruby
+---
 
 ## Inject
 

@@ -1,4 +1,7 @@
-# Rendering ERB
+---
+title: Rendering ERB
+category: ruby
+---
 
 If you have a string that contains ERB templating, you can quickly generate
 the resulting string with the following code snippet:

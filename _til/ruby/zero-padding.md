@@ -1,4 +1,7 @@
-# Zero Padding
+---
+title: Zero Padding
+category: ruby
+---
 
 Ruby makes zero-padding strings to a fixed length easy with `String#rjust`.
 

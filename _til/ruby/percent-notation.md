@@ -1,4 +1,7 @@
-# Percent Notation
+---
+title: Percent Notation
+category: ruby
+---
 
 Ruby has many uses for the `%` character. One of the more obscure uses is as
 a notion for custom delimited strings. Use the percent notation with a

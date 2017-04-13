@@ -1,4 +1,7 @@
-# Last Raised Exception In The Call Stack
+--- 
+title: Last Raised Exception In The Call Stack
+category: ruby
+---
 
 In Ruby, the `$!` global variable contains the last exception that was
 raised in the current call stack. This makes it trivial to check what error

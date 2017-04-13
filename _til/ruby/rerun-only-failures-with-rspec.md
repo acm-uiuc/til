@@ -1,4 +1,7 @@
-# Rerun Only Failures With RSpec
+---
+title: Rerun Only Failures With RSpec
+category: ruby
+---
 
 After running a big test suite, I may have a bunch of output on the screen
 including the results of a couple test failures. I like to bring the context

@@ -1,4 +1,7 @@
-# Finding The Source of Ruby Methods
+--- 
+title: Finding The Source of Ruby Methods
+category: ruby
+---
 
 Ruby's [`Method`](http://ruby-doc.org/core-1.9.3/Method.html) class
 includes a feature that can help you quickly find the location of

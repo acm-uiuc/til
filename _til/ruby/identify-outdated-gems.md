@@ -1,4 +1,7 @@
-# Identify Outdated Gems
+--- 
+title: Identify Outdated Gems
+category: ruby
+---
 
 Bundler can be used to identify outdated gems for a given project. By
 running `bundle outdated` in a project's directory, Bundler will compare the

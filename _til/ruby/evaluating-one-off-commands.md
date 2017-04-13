@@ -1,4 +1,7 @@
-# Evaluating One-Off Commands
+--- 
+title: Evaluating One-Off Commands
+category: ruby
+---
 
 When I need to quickly test something out in Ruby, I will often reach for
 `irb`. However, there is an even quicker way to send a line of code to

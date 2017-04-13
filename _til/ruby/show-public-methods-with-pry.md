@@ -1,4 +1,7 @@
-# Show Public Methods With Pry
+---
+title: Show Public Methods With Pry
+category: ruby
+---
 
 Open up a [`pry`](https://github.com/pry/pry) session and use the `-m` flag
 with the `ls` command to show just the public methods for an object.

@@ -1,4 +1,8 @@
-# Use A Case Statement As A Cond Statement
+---
+title: Use A Case Statement As A Cond Statement
+category: ruby
+---
+
 
 Many languages come with a feature that usually takes the name _cond
 statement_. It is essentially another way of writing an _if-elsif-else_

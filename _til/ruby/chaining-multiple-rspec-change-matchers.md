@@ -1,4 +1,7 @@
-# Chaining Multiple RSpec Change Matchers
+--- 
+title: Chaining Multiple RSpec Change Matchers
+category: ruby
+---
 
 It can be handy to use RSpec's `change` matchers to determine if some method
 or process creates a new record.

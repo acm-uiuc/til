@@ -1,4 +1,7 @@
-# Using pry and ncurses together
+---
+title: Using pry and ncurses together
+category: ruby
+---
 
 Because of ncurse's visual mode you will not be able to use pry normally.
 The easiest way to get pry working is to do the following:

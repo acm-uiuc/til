@@ -1,4 +1,7 @@
-# Safe Navigation Operator
+---
+title: Safe Navigation Operator
+category: ruby
+---
 
 With the release of Ruby 2.3, the *safe navigation operator* (`&.`) is now
 available. This addition to the Ruby language allows you to collapse all

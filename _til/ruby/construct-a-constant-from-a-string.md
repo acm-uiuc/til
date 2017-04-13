@@ -1,4 +1,7 @@
-# Construct A Constant From A String
+--- 
+title: Construct A Constant From A String
+category: ruby
+---
 
 Ruby's
 [`Module.const_get`](http://ruby-doc.org/core-2.1.0/Module.html#method-i-const_get)

@@ -1,4 +1,7 @@
-# Colorful Output With MiniTest
+--- 
+title: Colorful Output With MiniTest
+category: ruby
+---
 
 Ruby's
 [`MiniTest`](http://ruby-doc.org/stdlib-2.0.0/libdoc/minitest/rdoc/MiniTest.html)

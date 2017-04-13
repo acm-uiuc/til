@@ -1,4 +1,7 @@
-# Comparing Class Hierarchy Relationships
+--- 
+title: Comparing Class Hierarchy Relationships
+category: ruby
+---
 
 The comparator methods (`<`,`>`, etc.) can be useful for a lot of things. In
 Ruby, they can be used to compare classes in order to understand how they

@@ -1,4 +1,7 @@
-# Assoc For Hashes
+--- 
+title: Assoc For Hashes
+category: ruby
+---
 
 Ruby's Hash class comes with a method, `assoc`, which is good for grabbing
 both the key and value from a hash. If the given key matches it returns a

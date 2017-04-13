@@ -1,4 +1,7 @@
-# Set RVM Default Ruby
+---
+title: Set RVM Default Ruby
+category: ruby
+---
 
 The default version of Ruby can be set for RVM using the `--default` flag.
 For instance, to set the default version of Ruby to `ruby-2.2.3`, use the

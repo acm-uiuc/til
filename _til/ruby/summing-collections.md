@@ -1,4 +1,7 @@
-# Summing Collections
+---
+title: Summing Collections
+category: ruby
+---
 
 Given a hash, `my_hash`,
 

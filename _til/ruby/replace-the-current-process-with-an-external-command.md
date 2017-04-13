@@ -1,4 +1,7 @@
-# Replace The Current Process With An External Command
+---
+title: Replace The Current Process With An External Command
+category: ruby
+---
 
 Ruby's
 [`Kernel#exec`](http://ruby-doc.org/core-2.2.3/Kernel.html#method-i-exec)

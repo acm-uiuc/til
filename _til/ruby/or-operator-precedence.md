@@ -1,4 +1,7 @@
-# Or Operator Precedence
+---
+title: Or Operator Precedence
+category: ruby
+---
 
 What's the difference between `||` and `or` in Ruby?
 

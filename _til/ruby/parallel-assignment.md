@@ -1,4 +1,7 @@
-# Parallel assignment
+---
+title: Parallel assignment
+category: ruby
+---
 
 Ruby allows us to assign multiple variables on the same line. This is also
 called parallel assignment.

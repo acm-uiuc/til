@@ -1,4 +1,7 @@
-# Next And Previous Floats
+---
+title:  Next And Previous Floats
+category: ruby
+---
 
 The `Float` class has two interesting methods for stepping forward or
 backwards through the numbers that can actually be *represented* by floats.

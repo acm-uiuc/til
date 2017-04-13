@@ -1,4 +1,7 @@
-# Are They All True?
+--- 
+title: Are They All True?
+category: ruby
+---
 
 There is a method on `Enumerable` that allows you to check against
 everything in a collection. This is the `all?` method.
