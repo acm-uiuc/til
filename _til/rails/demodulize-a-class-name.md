@@ -1,4 +1,7 @@
-# Demodulize A Class Name
+--- 
+title: Demodulize A Class Name
+category: rails
+---
 
 If you call `.class.name` on an instance of some class, the fully qualified
 name will be returned, module names and all. Consider the following example

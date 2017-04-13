@@ -1,4 +1,7 @@
-# Truncate Almost All Tables
+--- 
+title: Truncate Almost All Tables
+category: rails
+---
 
 The
 [`database_cleaner`](https://github.com/DatabaseCleaner/database_cleaner)

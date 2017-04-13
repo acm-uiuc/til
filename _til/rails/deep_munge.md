@@ -1,4 +1,7 @@
-# Deep munge
+--- 
+title:  Deep munge
+category: rails
+---
 
 Rails will automatically strip empty arrays and hashes from `params`. This is to
 fix security holes caused by the unintentional generation of SQL queries with

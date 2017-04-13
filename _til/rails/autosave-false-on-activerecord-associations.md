@@ -1,4 +1,7 @@
-# Autosave False On ActiveRecord Associations
+--- 
+title: Autosave False On ActiveRecord Associations
+category: rails
+---
 
 A relationship between two ActiveRecord models can be established with a
 `has_one` or `has_many` association. This relationship has some

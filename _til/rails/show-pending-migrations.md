@@ -1,4 +1,7 @@
-# Show Pending Migrations
+--- 
+title: Show Pending Migrations
+category: rails
+---
 
 Rails comes with a built-in rake task that allows you to check the status
 of migrations in the project.

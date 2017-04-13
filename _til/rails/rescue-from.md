@@ -1,4 +1,7 @@
-# Rescue From
+--- 
+title: Rescue From
+category: rails
+---
 
 The
 [`rescue_from`](http://api.rubyonrails.org/classes/ActiveSupport/Rescuable/ClassMethods.html)

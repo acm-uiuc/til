@@ -1,4 +1,7 @@
-# Migrating Up Down Up
+--- 
+title: Migrating Up Down Up
+category: rails
+---
 
 When writing Rails migrations, it is good to define, when possible, what
 should happen when migrating *up* and what should happen when migrating

@@ -1,4 +1,7 @@
-# Callbacks in Edge Rails
+--- 
+title: Callbacks in Edge Rails
+category: rails
+---
 
 In Edge Rails, callbacks won't stop if you return `false`, you need to throw
 `:abort` . This prevents really subtle bugs where a method in a callback returns

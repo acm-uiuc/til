@@ -1,4 +1,7 @@
-# Creating Records of Has_One Associations
+--- 
+title: Creating Records of Has_One Associations
+category: rails
+---
 
 When working with a model, say a User, that has a `has_many` association
 with another model, say a Post, you can create a new post for a user like

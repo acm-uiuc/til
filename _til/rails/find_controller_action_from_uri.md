@@ -1,4 +1,7 @@
-# Find a controller and action from a URI string
+--- 
+title: Find a controller and action from a URI string
+category: rails
+---
 
 Got `GET /posts`, want to craft a `redirect_to` based off of that URI and some other parameters?
 

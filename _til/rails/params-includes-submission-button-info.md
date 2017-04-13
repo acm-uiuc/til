@@ -1,4 +1,7 @@
-# Params Includes Submission Button Info
+--- 
+title: Params Includes Submission Button Info
+category: rails
+---
 
 When a form is submitted for a Rails app, the respective controller action
 will have access to a variety of information in the `params` hash. Included

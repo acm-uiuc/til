@@ -1,4 +1,7 @@
-# Capybara Page Status Code
+--- 
+title: Capybara Page Status Code
+category: rails
+---
 
 To quickly determine if a page is rendering as expected or not, you can
 check the status code of the page. If your page is rendering successfully,

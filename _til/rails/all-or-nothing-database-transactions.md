@@ -1,4 +1,7 @@
-# All or Nothing Database Transactions
+--- 
+title: All or Nothing Database Transactions
+category: rails
+---
 
 When you are updating multiple records in an *all or nothing* scenario, you
 can use [Active Record

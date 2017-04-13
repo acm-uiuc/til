@@ -1,4 +1,7 @@
-# Hash Slicing
+--- 
+title: Hash Slicing
+category: rails
+---
 
 Rails' ActiveSupport adds
 [`#slice`](http://api.rubyonrails.org/classes/Hash.html#method-i-slice) and

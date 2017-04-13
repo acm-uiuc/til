@@ -1,4 +1,7 @@
-# List The Enqueued Jobs
+--- 
+title: List The Enqueued Jobs
+category: rails
+---
 
 Many Rails apps need to delegate work to jobs that can be performed at a
 later time. Both unit and integration testing can benefit from asserting

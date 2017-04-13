@@ -1,4 +1,7 @@
-# Retrieve An Object If It Exists
+--- 
+title: Retrieve An Object If It Exists
+category: rails
+---
 
 Rails' Active Support provides the `blank?` and `present?` convenience
 methods as extensions to many objects. It also extends the Object class by

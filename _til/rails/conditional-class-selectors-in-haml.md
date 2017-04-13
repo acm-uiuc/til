@@ -1,4 +1,7 @@
-# Conditional Class Selectors in Haml
+--- 
+title: Conditional Class Selectors in Haml
+category: rails
+---
 
 You can assign a class selector to a tag in HAML like so:
 

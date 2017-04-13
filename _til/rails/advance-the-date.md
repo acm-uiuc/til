@@ -1,4 +1,7 @@
-# Advance The Date
+--- 
+title: Advance The Date
+category: rails
+---
 
 In Rails land, you can advance a date forward and backward with the
 `#advance` method:

@@ -1,4 +1,7 @@
-# Inferred `maxlength` in Simple Form
+--- 
+title: Inferred `maxlength` in Simple Form
+category: rails
+---
 
 The [Simple Form gem] gives us some advanced features built on top of Rails'
 form builder. One such feature is the ability to infer the `maxlength` attribute

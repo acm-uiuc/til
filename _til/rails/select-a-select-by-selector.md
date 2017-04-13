@@ -1,4 +1,7 @@
-# Select A Select By Selector
+--- 
+title: Select A Select By Selector
+category: rails
+---
 
 Generally when using Capybara to select from a `select` input, I reference it by its `name`
 which rails associates with the label:

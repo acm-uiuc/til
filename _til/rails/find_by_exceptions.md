@@ -1,4 +1,7 @@
-## Exceptions Raised by `find_by` vs. `find`
+--- 
+title: Exceptions Raised by `find_by` vs. `find`
+category: rails
+---
 
 I previously believed that the following were the same - the former being the more concise, and by extension making the latter overly verbose:
 

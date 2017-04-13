@@ -1,4 +1,7 @@
-# Using Delayed::Job with Rails 4.2
+--- 
+title: Using Delayed::Job with Rails 4.2
+category: rails
+---
 
 [Delayed::Job][dj] is a reliable way to manage tasks which need to be run
 asynchronously, like processing large files or sending emails. Prior to Rails

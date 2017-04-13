@@ -1,4 +1,7 @@
-# Polymorphic Path Helpers
+--- 
+title: Polymorphic Path Helpers
+category: rails
+---
 
 Underlying many of the path helpers that we use day to day when building out
 the views in our Rails apps are a set of methods in the

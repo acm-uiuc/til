@@ -1,4 +1,7 @@
-# Pretend Generations
+--- 
+title: Pretend Generations
+category: rails
+---
 
 To get an idea of what a `rails generate` command is going to to
 *generate*, you can do a dry run with the `-p` flag or

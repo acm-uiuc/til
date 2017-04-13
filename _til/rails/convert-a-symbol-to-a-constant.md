@@ -1,4 +1,7 @@
-# Convert A Symbol To A Constant
+--- 
+title: Convert A Symbol To A Constant
+category: rails
+---
 
 If you have a symbol and need to convert it to a constant, perhaps because
 of some metaprogramming induced by a polymorphic solution, then you may

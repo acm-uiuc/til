@@ -1,4 +1,7 @@
-# Ignore Poltergeist JavaScript Errors
+--- 
+title: Ignore Poltergeist JavaScript Errors
+category: rails
+---
 
 Poltergeist with PhantomJS (<2.0) does not support JavaScript's `bind()`
 method. This means that when executing an integration test that exercises

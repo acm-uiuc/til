@@ -1,3 +1,8 @@
+--- 
+title: Empty Arrays in JSON Request
+category: rails
+---
+
 `Rack::Test` defaults to URL Encoding Parameters
 ================================================
 

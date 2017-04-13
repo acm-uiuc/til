@@ -1,4 +1,7 @@
-# Attach A File With Capybara
+--- 
+title: Attach A File With Capybara
+category: rails
+---
 
 There are two ways to attach a file with
 [Capybara](https://github.com/jnicklas/capybara). The more conventional way

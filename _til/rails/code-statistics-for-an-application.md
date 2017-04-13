@@ -1,4 +1,7 @@
-# Code Statistics For An Application
+--- 
+title: Code Statistics For An Application
+category: rails
+---
 
 Rails applications and engines provide `stats`, a rake task for reporting
 high level code statistics. Running it on a small project of mine generated

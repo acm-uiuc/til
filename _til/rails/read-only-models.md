@@ -1,4 +1,7 @@
-# Read-Only Models
+--- 
+title: Read-Only Models
+category: rails
+---
 
 Are you in the midst of a big refactoring that is phasing out an
 `ActiveRecord` model? You may not be ready to wipe it from the project, but

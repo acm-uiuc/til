@@ -1,4 +1,7 @@
-# Show Rails Models With Pry
+--- 
+title: Show Rails Models With Pry
+category: rails
+---
 
 With the [`pry-rails`](https://github.com/rweng/pry-rails) gem, you get some
 extra goodies in the Rails console for your project. One of those goodies is

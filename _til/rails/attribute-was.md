@@ -1,4 +1,7 @@
-# Attribute Was
+--- 
+title: Attribute Was
+category: rails
+---
 
 When modifying the attributes of an `ActiveRecord` object, you may want to
 know what values the modified attributes used to have. `ActiveRecord` gets

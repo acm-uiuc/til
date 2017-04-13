@@ -1,4 +1,7 @@
-# Remove The Default Value On A Column
+--- 
+title: Remove The Default Value On A Column
+category: rails
+---
 
 You have a column on one of your database tables with a default value. You'd
 like to remove the default value. Removing the default is the same as

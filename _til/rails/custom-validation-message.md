@@ -1,4 +1,7 @@
-# Custom Validation Message
+--- 
+title: Custom Validation Message
+category: rails
+---
 
 When using Rails validations, a standard error message will be provided
 whenever there is a violation. Consider the scenario when there is a

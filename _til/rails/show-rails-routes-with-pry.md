@@ -1,4 +1,7 @@
-# Show Rails Routes With Pry
+--- 
+title: Show Rails Routes With Pry
+category: rails
+---
 
 In [Show Rails Models With Pry](show-rails-models-with-pry.md), I showed
 that [`pry-rails`](https://github.com/rweng/pry-rails) comes with some handy

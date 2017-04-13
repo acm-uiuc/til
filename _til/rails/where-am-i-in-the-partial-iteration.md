@@ -1,4 +1,7 @@
-# Where Am I In The Partial Iteration?
+--- 
+title: Where Am I In The Partial Iteration?
+category: rails
+---
 
 Let's say I am going to render a collection of posts with a post partial.
 

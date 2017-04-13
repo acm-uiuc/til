@@ -1,4 +1,7 @@
-# Select Value For SQL Counts
+--- 
+title: Select Value For SQL Counts
+category: rails
+---
 
 If you are like me and prefer writing raw SQL over the Arel DSL for counting
 stuff in your database, then the `select_value` method will come in handy.

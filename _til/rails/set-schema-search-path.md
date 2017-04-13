@@ -1,4 +1,7 @@
-# Set Schema Search Path
+--- 
+title: Set Schema Search Path
+category: rails
+---
 
 By default the schema search path for a PostgreSQL database is going to be
 `"$user", public`. Tables created by a Rails migration are going to end up

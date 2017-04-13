@@ -1,4 +1,7 @@
-# Attribute Getter without the Recursion
+--- 
+title: Attribute Getter without the Recursion
+category: rails
+---
 
 You may find yourself adding a custom *getter* method for one of the
 attributes in a Rails model. It might look something like this:

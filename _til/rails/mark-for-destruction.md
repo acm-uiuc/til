@@ -1,4 +1,7 @@
-# Mark For Destruction
+--- 
+title: Mark For Destruction
+category: rails
+---
 
 Do you have some complicated logic or criteria for deleting associated
 records? [ActiveRecord's
