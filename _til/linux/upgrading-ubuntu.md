@@ -1,4 +1,8 @@
-# Upgrading Ubuntu
+--- 
+title: Upgrading Ubuntu
+catagory: linux
+---
+
 
 I recently discovered that my Linode box was running a fairly old version of
 Ubuntu. Because it is a remote box that I SSH into, there is no graphical

@@ -1,4 +1,7 @@
-# List The Statuses Of All Upstart Jobs
+--- 
+title: List The Statuses Of All Upstart Jobs
+catagory: linux
+---
 
 To see a list of all known upstart jobs and their statuses, use the
 following command:

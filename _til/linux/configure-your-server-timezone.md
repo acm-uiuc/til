@@ -1,4 +1,7 @@
-# Configure Your Server Timezone
+--- 
+title: Configure Your Server Timezone
+catagory: linux
+---
 
 On Ubuntu and Debian, you can open an interactive prompt for configuring
 your timezone with the following command:
