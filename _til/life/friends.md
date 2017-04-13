@@ -1,6 +1,6 @@
 ---
 title: Making Friends
-category: uiuc
+category: life
 ---
 
 Many of you who are coming from the Chicago Suburbs or other popular parts of the world will come to college with others from your high school or community. While it’s great to have the comfort of someone from home around, it’s important to get to know people from all of the different diverse backgrounds. 
