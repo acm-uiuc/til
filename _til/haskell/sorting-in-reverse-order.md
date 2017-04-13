@@ -1,4 +1,7 @@
-# Sorting in reverse order
+---
+title: Sorting in reverse order
+category: haskell
+---
 
 `Data.Ord` contains a newtype, `Down`, which can wrap any type that has an
 `Ord` instance, in order to provide a reversed `Ord` instance for that type.

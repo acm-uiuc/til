@@ -1,4 +1,7 @@
-# Ranges and Enum
+---
+title:  Ranges and Enum
+category: haskell
+---
 
 Ranges can be constructed from any instance of Haskell's `Enum` typeclass,
 including custom types that derive from `Enum`. For example, the custom `Day`

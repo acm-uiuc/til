@@ -39,7 +39,7 @@ exclude:
 collections:
   til:
     title: Things We Learned
-    permalink: /til/:path/
+    permalink: /:path/
     output: true
 
 defaults:

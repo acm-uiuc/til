@@ -1,4 +1,7 @@
-# Sectioning
+---
+title: Sectioning
+category: haskell
+---
 
 You can partially apply an infix function by wrapping one argument and the
 function name in parentheses. When the returned function is called with an
