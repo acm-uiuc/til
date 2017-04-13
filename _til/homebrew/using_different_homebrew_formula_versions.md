@@ -1,6 +1,6 @@
 ---
 title: Using different Homebrew formula versions
-category: haskell
+category: brew
 ---
 
 Today, I was trying to run the executable from a gem and got the following error:
