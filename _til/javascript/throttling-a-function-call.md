@@ -1,4 +1,7 @@
-# Throttling A Function Call
+--- 
+title: Throttling A Function Call
+catagory: javascript
+---
 
 Imagine you have a JavaScript function that makes a request to your server.
 Perhaps it is sending user input from a `textarea` to be processed by the

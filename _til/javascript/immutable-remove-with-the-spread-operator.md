@@ -1,4 +1,7 @@
-# Immutable Remove With The Spread Operator
+--- 
+title: Immutable Remove With The Spread Operator
+catagory: javascript
+---
 
 ES6 introduces the [spread
 operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator)

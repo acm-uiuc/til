@@ -1,4 +1,8 @@
-## Functional Expressions in D&D ##
+--- 
+title: Functional Expressions in D&D 
+catagory: javascript
+---
+
 I've been having fun with functions while creating a JavaScript version of the 5th edition D&D character sheet.
 
 In recreating the character bonus table I got thru 47 lines of inline conditionals before the formula slapped me in the face:  

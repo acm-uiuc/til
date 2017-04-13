@@ -1,4 +1,7 @@
-# Numbers Are Empty
+--- 
+title: Numbers Are Empty
+catagory: javascript
+---
 
 The [`lodash`](https://lodash.com/) project comes with a ton of handy
 JavaScript utilities including the

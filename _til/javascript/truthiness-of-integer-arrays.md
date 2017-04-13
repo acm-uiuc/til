@@ -1,4 +1,7 @@
-# Truthiness of Integer Arrays
+--- 
+title: Truthiness of Integer Arrays
+catagory: javascript
+---
 
 We can consider the truthiness of `[1]` as follows:
 

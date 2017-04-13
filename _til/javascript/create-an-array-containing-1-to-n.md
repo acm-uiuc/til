@@ -1,4 +1,7 @@
-# Create An Array Containing 1 To N
+--- 
+title: Create An Array Containing 1 To N
+catagory: javascript
+---
 
 Some languages, such as Ruby, have a built in range constraint that makes it
 easy to construct an array of values from 1 to N. JavaScript is not one of

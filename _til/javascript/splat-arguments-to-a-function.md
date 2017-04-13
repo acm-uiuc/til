@@ -1,4 +1,7 @@
-# Splat Arguments To A Function
+--- 
+title: Splat Arguments To A Function
+catagory: javascript
+---
 
 Often times you have a function that takes a certain set of arguments. Like
 the following `adder` function:

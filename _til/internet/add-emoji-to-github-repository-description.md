@@ -1,4 +1,7 @@
-# Add Emoji To GitHub Repository Description
+---
+title: Add Emoji To GitHub Repository Description
+catagory: internet
+---
 
 GitHub restricts the set of unicode characters that can appear in the
 description field of a repository to anything up to `0xffff`. Most emoji

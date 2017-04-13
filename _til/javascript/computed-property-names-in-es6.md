@@ -1,4 +1,7 @@
-# Computed Property Names In ES6
+--- 
+title: Computed Property Names In ES6
+catagory: javascript
+---
 
 Perhaps more often than not, property names in an object are based on
 something dynamic rather than a static value. In ES5, you may end up with

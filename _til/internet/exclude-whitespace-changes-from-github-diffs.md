@@ -1,4 +1,7 @@
-# Exclude Whitespace Changes From GitHub Diffs
+--- 
+title: Exclude Whitespace Changes From GitHub Diffs
+catagory: internet
+---
 
 If you run a tidy ship and use plugins like
 [vim-spacejam](https://github.com/rondale-sc/vim-spacejam), then whitespace

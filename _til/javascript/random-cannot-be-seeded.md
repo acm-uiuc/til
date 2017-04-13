@@ -1,4 +1,7 @@
-# Random Cannot Be Seeded
+--- 
+title: Random Cannot Be Seeded
+catagory: javascript
+---
 
 In JavaScript, you can use `Math.random()` to get a *sorta* random value.
 

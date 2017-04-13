@@ -1,4 +1,7 @@
-# Character Codes from Keyboard Listeners
+--- 
+title: Character Codes from Keyboard Listeners
+catagory: javascript
+---
 
 If I create the following keyboard event listeners for `keydown`,
 `keypress`, and `keyup`:

@@ -1,4 +1,7 @@
-# Timing Processes
+--- 
+title: Timing Processes
+catagory: javascript
+---
 
 If you want to time a process, you can use the `console.time()` and
 `console.timeEnd()` utilities specified by the `console` Web API. Invoking

@@ -1,4 +1,7 @@
-# Object Initialization With Shorthand Property Names
+--- 
+title: Object Initialization With Shorthand Property Names
+catagory: javascript
+---
 
 If I have some variables:
 

@@ -1,4 +1,8 @@
-# NPM won't run arbitrary scripts
+--- 
+title: NPM won't run arbitrary scripts
+catagory: javascript
+---
+
 
 NPM packages can declare named commands in the `"scripts"` section of their
 `package.json`. NPM scripts are a useful way to run repetitive tasks necessary

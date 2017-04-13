@@ -1,4 +1,7 @@
-# Expand Emojis With The Spread Operator
+--- 
+title: Expand Emojis With The Spread Operator
+catagory: javascript
+---
 
 There are a number of emojis that are not stand-alone unicode characters,
 but instead are [a combination of two or more other
