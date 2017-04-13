@@ -1,4 +1,7 @@
-# Deleting Directories Of Files From netrw
+---
+title: Deleting Directories Of Files From netrw
+category: vim
+---
 
 In `netrw`, you can delete files and directories by navigating over the
 target of deletion and hitting `D`.

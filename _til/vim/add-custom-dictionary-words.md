@@ -1,4 +1,7 @@
-# Add Custom Dictionary Words
+---
+title: Add Custom Dictionary Words
+category: vim
+---
 
 When editing a file with `spell` turned on, you may find vim highlighting
 some of your content in red. This red highlighting indicates a misspelling.

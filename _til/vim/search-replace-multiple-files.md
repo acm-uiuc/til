@@ -1,4 +1,7 @@
-# Search & Replace in multiple files
+---
+title: Search & Replace in multiple files
+category: vim
+---
 
 I recently had to replace static files path in multiple files from a project
 I were working on, after boggling my mind trying to do it with

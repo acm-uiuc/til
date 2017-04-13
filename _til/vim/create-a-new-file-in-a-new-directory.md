@@ -1,4 +1,7 @@
-# Create A New File In A New Directory
+---
+title: Create A New File In A New Directory
+category: vim
+---
 
 From within a vim session, if you create a buffer for a new file in a
 directory that doesn't exist. For instance, let's say that `/features`

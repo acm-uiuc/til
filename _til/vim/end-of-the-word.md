@@ -1,4 +1,7 @@
-# End Of The Word
+---
+title: End Of The Word
+category: vim
+---
 
 Word-based movement can serve as a quick way to get around locally in Vim. I
 most often use `w` and `b` for this kind of movement. While `w` and `b` move

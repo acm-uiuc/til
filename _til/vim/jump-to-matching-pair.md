@@ -1,4 +1,7 @@
-# Jump To Matching Pair
+---
+title: Jump To Matching Pair
+category: vim
+---
 
 If you are dealing with code or data that contains parentheses or brackets
 that are hard to follow, you can easily jump between them with `%`.

@@ -1,4 +1,8 @@
-# Help For Non-Normal Mode Features
+---
+title: Help For Non-Normal Mode Features
+category: vim
+---
+
 
 The majority of your time in vim will be spent in normal mode. You will
 often look to the documentation for help on any number of commands and

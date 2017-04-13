@@ -1,3 +1,7 @@
+---
+title:  Unloading A Buffer
+category: vim
+---
 # Unloading A Buffer
 
 My preferred workflow with vim involves working across as many buffers as I

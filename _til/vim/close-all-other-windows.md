@@ -1,4 +1,7 @@
-# Close All Other Windows
+---
+title: Close All Other Windows
+category: vim
+---
 
 Opening split windows can be useful in a number of circumstances. Eventually
 though, you are going to want to go back to just one window. Generally when

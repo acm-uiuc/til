@@ -1,3 +1,7 @@
+---
+title: Adjusting Window Pane Size
+category: vim
+---
 # Whole Line Auto-Completion
 
 To get whole line auto-completion in Vim, you don't need a fancy plugin. It

@@ -1,5 +1,8 @@
-# Quick Man Pages
+---
+title: Quick Man Pages
 
+category: vim
+---
 Within Vim, if you encounter a command that has man pages (such as `grep`),
 you can move your cursor over that word in normal mode and press `K`
 (`shift+k`) to view the man pages for that command.

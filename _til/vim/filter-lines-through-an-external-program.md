@@ -1,4 +1,7 @@
-# Filter Lines Through An External Program
+---
+title: Filter Lines Through An External Program
+category: vim
+---
 
 Vim allows you to filter lines from your current buffer through an external
 program. For instance, if you have some ugly looking json that you'd like to

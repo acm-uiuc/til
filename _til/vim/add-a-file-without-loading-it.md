@@ -1,4 +1,7 @@
-# Add A File Without Loading It
+---
+title: Add A File Without Loading It
+category: vim
+---
 
 Generally, when you interact with files (e.g. `:e some-file.txt`), you are
 both adding it to the buffer list and loading the contents of the file as a

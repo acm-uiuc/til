@@ -1,4 +1,7 @@
-# Build And Install A Go Program
+---
+title: Build And Install A Go Program
+category: vim
+---
 
 With the [`vim-go`](https://github.com/fatih/vim-go) plugin, Vim gets all
 kinds of support for working with a Go project. Generally, with a Go

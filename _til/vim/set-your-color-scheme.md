@@ -1,4 +1,7 @@
-# Set Your Color Scheme
+---
+title: Set Your Color Scheme
+category: vim
+---
 
 Vim ships with a number of standard color schemes for both light and dark
 backgrounds. You can also find and install many others. To set your color

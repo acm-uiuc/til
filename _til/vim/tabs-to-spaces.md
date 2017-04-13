@@ -1,3 +1,7 @@
+---
+title: Tabs To Spaces
+category: vim
+---
 # Tabs To Spaces
 
 If you prefer spaces over tabs in your files, then opening up a file full of

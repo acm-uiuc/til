@@ -1,4 +1,8 @@
-# Turning Off Search Highlighting
+---
+title: Toggling Syntax Highlighting
+category: vim
+---
+
 
 After performing a search for a common word, you end up with that word
 highlighted all over the place. To turn it off, I generally use the `set`

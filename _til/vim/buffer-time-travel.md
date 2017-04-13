@@ -1,4 +1,7 @@
-# Buffer Time Travel
+---
+title: Buffer Time Travel
+category: vim
+---
 
 Vim allows you to go to an *earlier* text state for a buffer with
 `:earlier`. For instance, if you want to see the state of the buffer from 10

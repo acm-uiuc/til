@@ -1,4 +1,7 @@
-# Increment All The Numbers
+---
+title: Increment All The Numbers
+category: vim
+---
 
 Vim's substitution feature can be used for more than simple static text
 replacement. Each replacement can be the result of some operation on the

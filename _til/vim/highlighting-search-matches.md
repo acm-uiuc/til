@@ -1,4 +1,7 @@
-# Highlighting Search Matches
+---
+title: Highlighting Search Matches
+category: vim
+---
 
 Want to see all the places in the buffer that match a search pattern? Turn
 on `hlsearch` and Vim will highlight all the matches of the previous search.

@@ -1,4 +1,7 @@
-# Quick File Info
+---
+title: Quick File Info
+category: vim
+---
 
 If you are browsing a directory with vim (e.g. `vim .`) and you want to
 see information about a file such as the *last modification date* and *file

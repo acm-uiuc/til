@@ -1,4 +1,7 @@
-# Incremental Searching
+---
+title:  Incremental Searching
+category: vim
+---
 
 You can do a text-based search on the contents of your current buffer by
 hitting `/` and then beginning to type a pattern (including regex). The

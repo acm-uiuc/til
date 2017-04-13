@@ -1,4 +1,7 @@
-# Joining Lines Together
+---
+title: Joining Lines Together
+category: vim
+---
 
 You can quickly join a series of lines onto a single line using the `J`
 command. Simply hitting 'J' in normal mode will join the current line with

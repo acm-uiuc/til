@@ -1,4 +1,7 @@
-# Open The Gemfile
+---
+title: Open The Gemfile
+category: vim
+---
 
 One of the central files to any Ruby or Rails project is the `Gemfile`. When
 it is time to add or remove a Gem, that is the place to go. The

@@ -1,4 +1,7 @@
-# Coercing Casing With vim-abolish
+---
+title: Coercing Casing With vim-abolish
+category: vim
+---
 
 The [`vim-abolish`](https://github.com/tpope/vim-abolish) plugin provides a
 couple handy shortcuts for quickly coercing the casing of a variable.

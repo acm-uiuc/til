@@ -1,4 +1,7 @@
-# Swapping Split Windows
+---
+title: Swapping Split Windows
+category: vim
+---
 
 Consider a scenario where you have a vim window that has been split
 horizontally into two viewports. You'd prefer the top one to be on bottom

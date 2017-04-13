@@ -1,4 +1,7 @@
-# Open Vim To A Tag Definition
+---
+title: Open Vim To A Tag Definition
+category: vim
+---
 
 If you are using [ctags with Vim](https://andrew.stwrt.ca/posts/vim-ctags/),
 you can provide a tag name when opening Vim. This signals to Vim that it

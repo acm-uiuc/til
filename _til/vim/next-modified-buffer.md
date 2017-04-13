@@ -1,4 +1,7 @@
-# Next Modified Buffer
+---
+title: Next Modified Buffer
+category: vim
+---
 
 After working for a while on a feature that involves looking at a number of
 files, I end up with a decent buffer list. I will have inevitably edited a

@@ -1,4 +1,7 @@
-# Preventing Typos with Abbreviations
+---
+title: Preventing Typos with Abbreviations
+category: vim
+---
 
 Are you are prone to mistyping *the* as *teh* or *function* as *funciton*?
 You can add one-line abbreviations to your `.vimrc` file to auto-correct

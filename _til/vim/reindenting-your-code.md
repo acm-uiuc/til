@@ -1,4 +1,7 @@
-# Re-indenting Your Code
+---
+title: Re-indenting Your Code
+category: vim
+---
 
 If you have pasted some poorly formatted code or you've written a portion
 of code in a way that mangled the indentation, you can quickly re-indent

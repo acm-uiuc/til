@@ -1,4 +1,7 @@
-# Easy file diffing
+---
+title: Easy file diffing
+category: vim
+---
 
 Vim comes with its own diff viewer. It can be launched from the command-line
 with:

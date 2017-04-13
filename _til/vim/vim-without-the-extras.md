@@ -1,3 +1,7 @@
+---
+title: Adjusting Window Pane Size
+category: vim
+---
 # Vim Without The Extras
 
 If you want to start up vim without loading all the usual plugins, you

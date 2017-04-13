@@ -1,4 +1,7 @@
-# Paste A Register From Insert Mode
+---
+title: Paste A Register From Insert Mode
+category: vim
+---
 
 Generally pasting a register is done from Normal mode using `p` or something
 like `'1p` (the former pasting from the default register, `0`, and the

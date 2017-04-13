@@ -1,4 +1,7 @@
-# Deleting Buffers In BufExplorer
+---
+title: Deleting Buffers In BufExplorer
+category: vim
+---
 
 The [BufExplorer](https://github.com/jlanzarotta/bufexplorer) plugin makes
 it easy to browse and navigate to the various buffers open in a Vim session.

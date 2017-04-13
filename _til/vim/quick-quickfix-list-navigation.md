@@ -1,4 +1,7 @@
-# Quick Quickfix List Navigation
+---
+title: Quick Quickfix List Navigation
+category: vim
+---
 
 There are lots of commands that will load up Vim's quickfix list with
 results that you'll want to traverse. For instance, if you use [Fugitive's

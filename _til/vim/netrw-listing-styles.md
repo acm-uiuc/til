@@ -1,4 +1,8 @@
-# NETRW Listing Styles
+---
+title: NETRW Listing Styles
+category: vim
+---
+
 
 When you edit a directory with vim (`vim .`), you are taken into netrw which allows
 you to explore the contents of that directory. By default, you will see a

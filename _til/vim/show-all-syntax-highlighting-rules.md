@@ -1,4 +1,7 @@
-# Show All Syntax Highlighting Rules
+---
+title: Show All Syntax Highlighting Rules
+category: vim
+---
 
 When Vim adds syntax highlighting to the contents of a buffer based on its
 `filetype`, it does so with a set of rules. These rules specify particular

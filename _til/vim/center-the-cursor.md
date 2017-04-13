@@ -1,4 +1,7 @@
-# Center The Cursor
+---
+title: Center The Cursor
+category: vim
+---
 
 If you've moved the cursor to a particular line towards the top or bottom of
 the screen, you may want to center the screen on that line. This can be

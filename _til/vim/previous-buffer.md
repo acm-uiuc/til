@@ -1,4 +1,8 @@
-# Previous Buffer
+---
+title: Previous Buffer
+category: vim
+---
+
 
 I often find myself needing to jump back and forth between two buffers. For
 instance, if I am iterating on a test and the implementation, there is a lot

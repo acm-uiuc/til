@@ -1,4 +1,7 @@
-# Blank Lines Above And Below
+---
+title: Blank Lines Above And Below
+category: vim
+---
 
 Generally when I want to add a line above or below the line that the cursor
 is on, I use `O` and `o`, respectively. This has a couple potential

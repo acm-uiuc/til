@@ -1,4 +1,7 @@
-# Close All Other Splits
+---
+title: Close All Other Splits
+category: vim
+---
 
 If you have a couple other splits open, but you only want the window in
 focus, you may find yourself doing some finger gymnastics to navigate to

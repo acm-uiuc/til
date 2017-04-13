@@ -1,4 +1,8 @@
-# Toggling Syntax Highlighting
+---
+title: Toggling Syntax Highlighting
+category: vim
+---
+
 
 Syntax highlighting in Vim is generally a good thing, but sometimes you need
 to turn it off. This can be achieved with the `syntax` command.

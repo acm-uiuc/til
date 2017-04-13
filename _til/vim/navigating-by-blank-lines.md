@@ -1,4 +1,7 @@
-# Navigating By Blank Lines
+---
+title: Navigating By Blank Lines
+category: vim
+---
 
 Use vim to open a file full of code (or text) that has some blank lines.
 Move the cursor to the middle of the file. Then start hitting `{` or `}`.

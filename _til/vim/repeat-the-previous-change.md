@@ -1,4 +1,8 @@
-# Repeat The Previous Change
+---
+title: Repeat The Previous Change
+category: vim
+---
+
 
 If you have just performed a change and you realize you want to immediately
 do it again, you can hit `.` instead of retyping it. This is a good way to

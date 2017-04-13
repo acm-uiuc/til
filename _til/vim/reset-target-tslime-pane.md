@@ -1,4 +1,8 @@
-# Reset Target tslime Pane
+---
+title: Reset Target tslime Pane
+
+category: vim
+---
 
 The combination of [`tslime`](https://github.com/jgdavey/tslime.vim) and
 [`turbux`](https://github.com/jgdavey/vim-turbux) makes running tests from

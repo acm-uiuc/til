@@ -1,4 +1,7 @@
-# Open A Tag In A Split Window
+---
+title: Open A Tag In A Split Window
+category: vim
+---
 
 Using tags and `ctrl-]` is a quick way to jump from the use of a keyword to
 the declaration or definition whether in the same file or another file.

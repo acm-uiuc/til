@@ -1,4 +1,7 @@
-# Breaking The Undo Sequence
+---
+title: Breaking The Undo Sequence
+category: vim
+---
 
 Generally, the sequence of undo-able actions is segmented by command. When
 entering Insert mode, everything typed until exiting Insert mode is part of

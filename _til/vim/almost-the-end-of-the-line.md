@@ -1,4 +1,7 @@
-# Almost The End Of The Line
+---
+title: Almost The End Of The Line
+category: vim
+---
 
 If you are visually selecting from the cursor to the end of the line, you
 will probably hit:

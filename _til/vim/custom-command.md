@@ -1,4 +1,7 @@
-# Custom commands
+---
+title: Custom commands
+category: vim
+---
 
 Custom commands in Vim are defined via the `command` command. As I learn new
 things throughout the week, I like to write them down in a `TIL.md` file. I

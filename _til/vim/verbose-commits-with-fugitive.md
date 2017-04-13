@@ -1,3 +1,7 @@
+---
+title: Adjusting Window Pane Size
+category: vim
+---
 # Verbose Commits With Fugitive
 
 Let's say you are using [fugitive.vim](https://github.com/tpope/vim-fugitive).

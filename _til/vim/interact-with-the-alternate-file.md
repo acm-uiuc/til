@@ -1,4 +1,7 @@
-# Interact With The Alternate File
+---
+title: Interact With The Alternate File
+category: vim
+---
 
 If you have a couple buffers going in a Vim session and you check out the
 buffer list with `:ls`, you'll notice that one of those buffers has a `#`

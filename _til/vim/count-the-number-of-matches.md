@@ -1,4 +1,7 @@
-# Count the Number of Matches
+---
+title: Count the Number of Matches
+category: vim
+---
 
 You can use the substitution functionality in vim to count the number
 of matches for a given search term like so:

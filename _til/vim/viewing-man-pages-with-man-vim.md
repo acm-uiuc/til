@@ -1,4 +1,7 @@
-# Viewing Man Pages with man.vim
+---
+title: Viewing Man Pages with man.vim
+category: vim
+---
 
 In [Quick Man Pages](quick-man-pages.md), I introduced `K` which shells
 out to the man page for the unix command under the cursor. It gets better

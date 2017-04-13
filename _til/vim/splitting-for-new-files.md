@@ -1,4 +1,7 @@
-# Splitting For New Files
+---
+title: Splitting For New Files
+category: vim
+---
 
 Let's assume you already have a vim session open. You now want to open a new
 file. You can open a new horizontally split window with the `:new` command.

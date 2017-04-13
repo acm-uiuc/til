@@ -1,4 +1,7 @@
-# Open An Unnamed Buffer
+---
+title: Open An Unnamed Buffer
+category: vim
+---
 
 There are two ways (that I know of) to open an unnamed buffer.
 

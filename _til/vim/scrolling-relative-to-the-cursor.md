@@ -1,4 +1,7 @@
-# Scrolling Relative to the Cursor
+---
+title: Scrolling Relative to the Cursor
+category: vim
+---
 
 If you hit `zt` while in normal mode, the window will be redrawn such that
 the line the cursor is positioned on is at the top of the window. Similarly,

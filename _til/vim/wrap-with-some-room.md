@@ -1,3 +1,7 @@
+---
+title: Adjusting Window Pane Size
+category: vim
+---
 # Wrap With Some Room
 
 The [surround.vim](https://github.com/tpope/vim-surround) plugin allows

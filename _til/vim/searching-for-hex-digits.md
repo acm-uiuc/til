@@ -1,4 +1,7 @@
-# Searching For Hex Digits
+---
+title: Searching For Hex Digits
+category: vim
+---
 
 If you want to find sequences of hex digits (`A-F`, `a-f` and `0-9`) in a
 search, you can hack together something like:

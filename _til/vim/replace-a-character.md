@@ -1,4 +1,7 @@
-# Replace A Character
+---
+title: Replace A Character
+category: vim
+---
 
 Throughout the day I'll often find myself deleting a single character and
 putting a different one in its place. I usually navigate over the target

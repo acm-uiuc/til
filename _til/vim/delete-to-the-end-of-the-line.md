@@ -1,4 +1,7 @@
-# Delete To The End Of The Line
+---
+title: Delete To The End Of The Line
+category: vim
+---
 
 There are a number of ways to delete from the cursor position to the end of
 the line. Generally when I am doing this, I want delete to the end of the

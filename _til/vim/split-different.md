@@ -1,4 +1,8 @@
-# Split Different
+---
+title: Split Different
+category: vim
+---
+
 
 Vim's defaults for `:split` and `:vsplit` are to open the splits above and
 to the left, respectively. I prefer for them to the split below and to the

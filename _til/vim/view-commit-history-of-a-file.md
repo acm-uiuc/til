@@ -1,4 +1,8 @@
-# View Commit History of a File
+---
+title: View Commit History of a File
+category: vim
+---
+
 
 [Gitv](https://github.com/gregsexton/gitv) is an extension of the
 [Fugitive](https://github.com/tpope/vim-fugitive) plugin that allows you to

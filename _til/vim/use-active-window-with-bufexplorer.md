@@ -1,4 +1,7 @@
-# Use Active Window With BufExplorer
+---
+title: Use Active Window With BufExplorer
+category: vim
+---
 
 I often use [BufExplorer](https://github.com/jlanzarotta/bufexplorer) within
 long-running Vim sessions as a way of quickly jumping between the various

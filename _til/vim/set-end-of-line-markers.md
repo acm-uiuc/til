@@ -1,4 +1,7 @@
-# Set End Of Line Markers
+---
+title: Set End Of Line Markers
+category: vim
+---
 
 Vim has a number of invisible characters that you can set.
 One of those characters is the end of line (`eol`) character.

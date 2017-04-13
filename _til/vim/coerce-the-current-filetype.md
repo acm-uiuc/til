@@ -1,4 +1,8 @@
-# Coerce The Current Filetype
+---
+title: Coerce The Current Filetype
+category: vim
+---
+
 
 If Vim doesn't recognize the filetype of the currently edited file, I can
 tell Vim what filetype to use. Consider, for instance, that I have a draft

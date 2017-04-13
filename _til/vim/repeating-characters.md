@@ -1,4 +1,8 @@
-# Repeating Characters
+---
+title:  Repeating Characters
+category: vim
+---
+
 
 It's not common to need to type 39 space characters in a row, but when the
 moment arises, you don't want to be caught hitting the space bar 39 times.

@@ -1,4 +1,7 @@
-# Interactive Buffer List
+---
+title: Interactive Buffer List
+category: vim
+---
 
 The `:ls` command is a great way to see what buffers you currently have open
 during a vim session. However, if you are trying to find and open a specific

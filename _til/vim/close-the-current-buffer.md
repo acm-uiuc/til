@@ -1,4 +1,7 @@
-# Close the Current Buffer
+---
+title: Close the Current Buffer
+category: vim
+---
 
 There are a number of ways in Vim to close the current buffer. Obviously,
 `:q` will do the trick, but that kills all of your buffers which isn't ideal

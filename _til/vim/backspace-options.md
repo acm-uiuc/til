@@ -1,4 +1,7 @@
-# Backspace Options
+---
+title: Backspace Options
+category: vim
+---
 
 The `backspace` option determines the behavior of pressing the backspace key
 (`<BS>`). By default, Vim's `backspace` option is set to an empty list.

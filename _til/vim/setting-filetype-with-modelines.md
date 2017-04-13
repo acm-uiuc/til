@@ -1,4 +1,8 @@
-# Setting Filetype With Modelines
+---
+title:  Setting Filetype With Modelines
+category: vim
+---
+
 
 Vim and various plugins generally use known file extensions to determine the
 filetype of a file. This is important because it is how Vim decides which

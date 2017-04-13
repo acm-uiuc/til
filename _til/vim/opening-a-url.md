@@ -1,4 +1,7 @@
-# Opening a URL
+---
+title: Opening a URL
+category: vim
+---
 
 Vim makes it easy to quickly open a URL that appears in a file. Simply move
 the cursor over the URL and hit `gx`. This will use your respective

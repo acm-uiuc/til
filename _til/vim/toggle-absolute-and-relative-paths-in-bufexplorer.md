@@ -1,4 +1,7 @@
-# Toggle Absolute And Relative Paths In BufExplorer
+---
+title: Toggle Absolute And Relative Paths In BufExplorer
+category: vim
+---
 
 After opening [BufExplorer](https://github.com/jlanzarotta/bufexplorer)
 using `<leader>bs`, you will see both files and the paths to those files. By

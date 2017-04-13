@@ -1,4 +1,7 @@
-# Format Long Lines To Text Width
+---
+title: Format Long Lines To Text Width
+category: vim
+---
 
 Vim allows you to set the maximum width for text per line in a buffer with
 the `textwidth` setting. For example, you can set the maximum text width to

@@ -1,4 +1,7 @@
-# Match The Beginning And End Of Words
+---
+title:  Match The Beginning And End Of Words
+category: vim
+---
 
 Often when doing a substitution for an exact word, say `user` to
 `admin`, I will include spaces on either end of the regex pattern to avoid

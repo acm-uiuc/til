@@ -1,4 +1,7 @@
-# Show Matching Entries For Help
+---
+title: Show Matching Entries For Help
+category: vim
+---
 
 Looking up things with Vim's `:help` command can be error prone if you don't
 know exactly how to format what you are looking up. Bypass some of the

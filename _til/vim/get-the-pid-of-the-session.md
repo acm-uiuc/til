@@ -1,4 +1,7 @@
-# Get The pid Of The Session
+---
+title:  Get The pid Of The Session
+category: vim
+---
 
 Your current Vim session is a process running on your machine. That means
 that this session is tied to a particular process id, _pid_.

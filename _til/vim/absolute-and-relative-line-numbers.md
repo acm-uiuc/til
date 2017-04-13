@@ -1,5 +1,7 @@
-# Absolute And Relative Line Numbers
-
+---
+title: Absolute And Relative Line Numbers
+category: vim
+---
 By default, vim uses absolute line numbering. This can be turned off with
 `set nonumber` or more concisely `set nonu`. Turn it back on with `set nu`.
 Get more details at `:h number`.

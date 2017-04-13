@@ -1,4 +1,7 @@
-# Creating Non-Existent Directories
+---
+title: Creating Non-Existent Directories
+category: vim
+---
 
 When creating new files from within vim, using `:e`, you may find yourself
 creating that file in a directory that doesn't yet exist. Vim will tell you

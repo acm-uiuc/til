@@ -1,4 +1,7 @@
-# Opening Man Pages In Vim
+---
+title: Opening Man Pages In Vim
+category: vim
+---
 
 In [Quick Man Pages](quick-man-pages.md), I explained how you can quickly
 open man pages with `K`. For times when the particular command isn't in the

@@ -1,4 +1,7 @@
-# Previous Visual Selection
+---
+title: Previous Visual Selection
+category: vim
+---
 
 Typing `gv` in normal mode will re-select the previous visual selection.
 This makes it easy to re-select a specific block of text. For instance, if

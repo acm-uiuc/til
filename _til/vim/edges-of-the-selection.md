@@ -1,4 +1,7 @@
-# Edges Of The Selection
+---
+title: Edges Of The Selection
+category: vim
+---
 
 When you make a visual selection, Vim stores the position of the first
 character of the selection in the `<` mark and the position of the last

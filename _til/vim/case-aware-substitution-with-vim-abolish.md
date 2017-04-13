@@ -1,4 +1,7 @@
-# Case-Aware Substitution With vim-abolish
+---
+title: Case-Aware Substitution With vim-abolish
+category: vim
+---
 
 Substitution in vim is, by default, case-sensitive. Adding the `i` `s-flag`
 makes it case-insensitive.

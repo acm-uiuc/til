@@ -1,4 +1,7 @@
-# Open The Directory Of The Current File
+---
+title: Open The Directory Of The Current File
+category: vim
+---
 
 In one of my first TILs ever, [Head Of File
 Name](https://github.com/jbranchaud/til/blob/master/vim/head-of-file-name.md),

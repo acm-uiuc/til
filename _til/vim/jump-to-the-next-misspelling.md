@@ -1,4 +1,7 @@
-# Jump To The Next Misspelling
+---
+title: Jump To The Next Misspelling
+category: vim
+---
 
 If spelling is turned on (`:set spell`), you can jump back and forth between
 words that are misspelled. To jump to the next misspelling, hit `]s`. To

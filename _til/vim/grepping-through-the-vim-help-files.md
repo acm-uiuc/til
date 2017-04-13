@@ -1,4 +1,7 @@
-# Grepping Through The Vim Help Files
+---
+title: Grepping Through The Vim Help Files
+category: vim
+---
 
 Trying to look up the help file for a Vim feature, but you cannot quite
 remember the right keyword? Use `:helpgrep`. With `:helpgrep`, you can

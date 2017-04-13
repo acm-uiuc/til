@@ -1,4 +1,7 @@
-# Moving To A Specific Line
+---
+title: Moving To A Specific Line
+category: vim
+---
 
 Often times when I open a new buffer, it is with the intention of moving to
 a particular line. For example, if I am trying to move to line 55 in the

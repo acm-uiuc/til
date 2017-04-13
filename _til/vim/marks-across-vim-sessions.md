@@ -1,5 +1,8 @@
-# Marks Across Vim Sessions
+---
+title: Marks Across Vim Sessions
 
+category: vim
+---
 Any mark set with a capital letter (that is, `A-Z`) is called a *file mark*.
 File marks can be used to move from file to file. File marks will also be
 written to the Vim Info file (`~/.viminfo`) which means that if you close

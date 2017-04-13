@@ -1,4 +1,7 @@
-# Check Your Current Color Scheme
+---
+title: Check Your Current Color Scheme
+category: vim
+---
 
 Vim ships with a number of different color schemes. There is also a plethora
 of color schemes built by the open source community. If you'd like to know

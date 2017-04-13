@@ -1,4 +1,7 @@
-# Load A Directory Of Files Into The Buffer List
+---
+title: Load A Directory Of Files Into The Buffer List
+category: vim
+---
 
 Consider the scenario where I want to go through all files in a directory to
 make a series of minor, related changes. After editing each file, I can type

@@ -1,4 +1,7 @@
-# Beginning And End Of Previous Change
+---
+title: Beginning And End Of Previous Change
+category: vim
+---
 
 You can jump to the beginning of the previous change with the `[` mark by
 hitting `'[` from normal mode. Similarly, you can jump to the end of the

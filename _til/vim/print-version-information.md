@@ -1,4 +1,7 @@
-# Print Version Information
+---
+title: Print Version Information
+category: vim
+---
 
 Want to know what version of Vim you are using, plus a bunch of other
 information? Try entering

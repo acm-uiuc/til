@@ -1,3 +1,7 @@
+---
+title: Rotate Everything By 13 Letters
+category: vim
+---
 # Rotate Everything By 13 Letters
 
 For some inane reason, Vim comes with a

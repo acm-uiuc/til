@@ -1,4 +1,7 @@
-# Default netrw To Tree Liststyle
+---
+title: Default netrw To Tree Liststyle
+category: vim
+---
 
 The built-in `netrw` plugin is a great way to browse files and directories
 within a Vim session. `netrw` supports four ways of displaying files and

@@ -1,4 +1,8 @@
-# Reverse A Group Of Lines
+---
+title: Reverse A Group Of Lines
+category: vim
+---
+
 
 The following command can be used to reverse the order of all lines in a
 file by doing a global move on all lines that match the beginning of line

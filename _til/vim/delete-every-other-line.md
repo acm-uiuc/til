@@ -1,4 +1,7 @@
-# Delete Every Other Line
+---
+title: Delete Every Other Line
+category: vim
+---
 
 You can delete every other line in the current buffer using the following
 command.

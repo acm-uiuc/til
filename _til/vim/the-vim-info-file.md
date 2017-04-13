@@ -1,4 +1,7 @@
-# The Vim Info File
+---
+title: The Vim Info File
+category: vim
+---
 
 Vim serializes a bunch of useful information as you edit files, jump around,
 and execute commands. This is so that vim can recall this information in

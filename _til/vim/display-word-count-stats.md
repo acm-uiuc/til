@@ -1,4 +1,7 @@
-# Display Word Count Stats
+---
+title: Display Word Count Stats
+category: vim
+---
 
 You can display counts for the current file including line count, word
 count, and byte count by hitting `g CTRL-g`. This also displays the line,

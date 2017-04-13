@@ -1,4 +1,7 @@
-# Horizontal to Vertical and Back Again
+---
+title: Horizontal to Vertical and Back Again
+category: vim
+---
 
 If you have two Vim windows open with a horizontal split and you want to
 quickly switch them to be vertically split, you can type the following two

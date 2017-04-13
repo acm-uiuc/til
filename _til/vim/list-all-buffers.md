@@ -1,4 +1,7 @@
-# List All Buffers
+---
+title:  List All Buffers
+category: vim
+---
 
 The `:ls` command will list the buffers you have open. What vim doesn't tell
 you though is that there are some unlisted buffers that it isn't displaying.

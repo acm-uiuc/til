@@ -1,4 +1,7 @@
-# Rename Current File
+---
+title: Rename Current File
+category: vim
+---
 
 Vim doesn't come with an easy way to rename the existing, current file. The
 closest you will get with a one-off command is `:saveas {new file name}`

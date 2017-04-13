@@ -1,4 +1,7 @@
-# The Black Hole Register
+---
+title: The Black Hole Register
+category: vim
+---
 
 Vim has a variety of registers for storing and moving around text. Vim also
 has a special register called the *black hole register*. This black hole

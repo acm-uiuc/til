@@ -1,4 +1,8 @@
-# Delete Lines That Match A Pattern
+---
+title: Delete Lines That Match A Pattern
+category: vim
+---
+
 
 The `:g` command can be used to execute an Ex command over the entire buffer
 for all lines that match a given pattern. By choosing `d` (delete) as the Ex
