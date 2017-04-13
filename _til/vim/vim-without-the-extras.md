@@ -1,8 +1,7 @@
 ---
-title: Adjusting Window Pane Size
+title: Vim Without The Extras
 category: vim
 ---
-# Vim Without The Extras
 
 If you want to start up vim without loading all the usual plugins, you
 can supply the `--noplugin` flag
