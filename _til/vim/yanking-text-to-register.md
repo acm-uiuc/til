@@ -1,8 +1,7 @@
 ---
-title: Adjusting Window Pane Size
+title: Yanking text to register
 category: vim
 ---
-# Yanking text to register
 
 Yanking and deleting text will save the text to the same unnamed register. Every
 time you delete a word, your yanked word will be overwritten. This caused me
