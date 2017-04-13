@@ -1,4 +1,7 @@
-# Clean Up Old Homebrew Files
+--- 
+title: Clean Up Old Homebrew Files
+category: macos
+---
 
 If you've been using [Homebrew](https://github.com/Homebrew/homebrew) for a
 while, you may have built up some cruft in the form old and outdated files.

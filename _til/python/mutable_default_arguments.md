@@ -1,4 +1,7 @@
-# Mutable default arguments
+--- 
+title: Mutable default arguments
+category: python
+---
 
 __NOTE__: Information taken from [python guide](http://docs.python-guide.org/en/latest/writing/gotchas/)
 

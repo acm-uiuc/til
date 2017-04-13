@@ -1,4 +1,7 @@
-# List All The Say Voices
+--- 
+title: List All The Say Voices
+category: macos
+---
 
 The `say` command can be a fun party trick.
 

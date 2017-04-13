@@ -1,4 +1,7 @@
-#Mac Controller Support
+--- 
+title: Mac Controller Support
+category: macos
+---
 
 Attempting to play video games natively on OS X has always been a rough proposition due to lack of supported games and hardware; but for years Colin Munro allowed us to utilize a Windows Xbox360 controller through a [custom driver](http://tattiebogle.net/index.php/ProjectRoot/Xbox360Controller/OsxDriver). 
 

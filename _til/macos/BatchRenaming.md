@@ -1,4 +1,7 @@
-# Batch Renaming in Mac OS 10.10
+--- 
+title: Batch Renaming in Mac OS 10.10
+category: macos
+---
 
 Today I learned that OS 10.10 supports [batch renaming from
 finder](http://www.tekrevue.com/tip/batch-rename-files-os-x-yosemite/). It

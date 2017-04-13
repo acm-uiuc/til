@@ -1,4 +1,8 @@
-# Setuptools entry points
+--- 
+title: Setuptools entry points
+category: python
+---
+
 When building a Python package, the most common way of exposing a
 command line interface (CLI) is to use the "scripts" keyword in
 ``setup.py``.

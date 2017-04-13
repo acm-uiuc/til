@@ -1,4 +1,7 @@
-# Default Screenshot Location
+--- 
+title: Default Screenshot Location
+category: macos
+---
 
 By default, Mac saves all screenshots to the desktop. If you'd like
 screenshots to be dumped somewhere else, you have to configure it manually

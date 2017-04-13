@@ -1,4 +1,7 @@
-# Insert A Non-Breaking Space Character
+--- 
+title: Insert A Non-Breaking Space Character
+category: macos
+---
 
 On Mac, you can insert a non-breaking space character by hitting
 `option-space`.
