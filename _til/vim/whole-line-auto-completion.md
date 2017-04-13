@@ -1,8 +1,7 @@
 ---
-title: Adjusting Window Pane Size
+title: Whole Line Auto-Completion
 category: vim
 ---
-# Whole Line Auto-Completion
 
 To get whole line auto-completion in Vim, you don't need a fancy plugin. It
 is built right in. There is a sub-mode of insert mode called *X mode* that
