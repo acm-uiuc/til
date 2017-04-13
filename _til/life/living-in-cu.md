@@ -1,6 +1,6 @@
 ---
 title: Living in Champaign-Urbana
-category: uiuc
+category: life
 ---
 
 Cornfield jokes aside, there are bunch of institutions in the community 
