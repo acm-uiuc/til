@@ -15,7 +15,7 @@ sudo mv go /usr/local
 ```
 Setting up the go workspace is a bit more invloved. Go expects code to reside in specific locations and you must tell go where these locations are.
 
-Within your ```.profile```,```.bashrc``` or the equivelent for whatever shell you are using set the following variable:
+Within your ```.profile```, ```.bashrc``` or the equivelent for whatever shell you are using set the following variables:
 
 First set the ```GOROOT```, this is where typically system wide packages are held.
 Good defaults would be:
