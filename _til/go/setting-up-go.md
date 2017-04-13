@@ -3,7 +3,7 @@ title: Setting Up Go
 category: go
 ---
 
-While installing the golang executable is relitvely straight forward:
+While installing the golang executable is relatively straight forward:
 
 ```sh
 #macOS
