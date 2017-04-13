@@ -1,8 +1,7 @@
 ---
-title: Adjusting Window Pane Size
+title:  Wrap With Some Room
 category: vim
 ---
-# Wrap With Some Room
 
 The [surround.vim](https://github.com/tpope/vim-surround) plugin allows
 you to wrap text objects with various surrounding characters
