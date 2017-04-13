@@ -1,4 +1,7 @@
-# Securely Remove Files
+---
+title: Securely Remove Files
+category: unix
+---
 
 If you really want to make sure you have wiped a file from your hard drive,
 you are going to want to use `srm` instead of `rm`. The man page for `srm`

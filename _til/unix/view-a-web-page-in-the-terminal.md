@@ -1,3 +1,7 @@
+---
+title: View A Web Page In The Terminal
+category: unix
+---
 # View A Web Page In The Terminal
 
 There are a number of programs out there that allow you to view a web page

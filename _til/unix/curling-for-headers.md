@@ -1,4 +1,7 @@
-# Curling For Headers
+---
+title: Curling For Headers
+category: unix
+---
 
 If you want to inspect the headers of a response from some endpoint, look no
 further than a quick `curl` command. By including the `-I` flag, `curl` will

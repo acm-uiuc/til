@@ -1,4 +1,8 @@
-# List Names Of Files With Matches
+---
+title: List Names Of Files With Matches
+category: unix
+---
+
 
 I often use `grep` and `ag` to search for patterns in a group or directory
 of files. Generally I am interested in looking at the matching lines

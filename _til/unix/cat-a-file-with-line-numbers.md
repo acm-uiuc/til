@@ -1,4 +1,7 @@
-# Cat A File With Line Numbers
+---
+title: Cat A File With Line Numbers
+category: unix
+---
 
 You can quickly view a file using `cat`
 

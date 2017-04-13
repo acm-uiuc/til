@@ -1,4 +1,8 @@
-# Exclude A Directory With Find
+---
+title: Exclude A Directory With Find
+category: unix
+---
+
 
 Using `find` is a handy way to track down files that meet certain criteria.
 However, if there are directories full of irrelevant files, you may end up

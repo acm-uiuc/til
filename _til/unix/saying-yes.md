@@ -1,4 +1,7 @@
-# Saying Yes
+---
+title: Saying Yes
+category: unix
+---
 
 Tired of being prompted for confirmation by command-line utilities? Wish you
 could blindly respond 'yes' to whatever it is they are bugging you about?

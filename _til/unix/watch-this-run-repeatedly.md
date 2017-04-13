@@ -1,3 +1,7 @@
+---
+title: Watch This Run Repeatedly
+category: unix
+---
 # Watch This Run Repeatedly
 
 I usually reach for a quick bash for loop when I want to run a particular

@@ -1,4 +1,7 @@
-# Grep For Multiple Patterns
+---
+title: Grep For Multiple Patterns
+category: unix
+---
 
 You can use the `-e` flag with the `grep` command to search for a pattern.
 Additionally, you can use multiple `-e` flags to search for multiple

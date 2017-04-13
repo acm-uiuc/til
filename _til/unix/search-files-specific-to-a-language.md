@@ -1,4 +1,7 @@
-# Search Files Specific To A Language
+---
+title: Search Files Specific To A Language
+category: unix
+---
 
 The `ack` command makes it easy to narrow the set of searched files to those
 of a specific programming language. For instance, if you have a rails

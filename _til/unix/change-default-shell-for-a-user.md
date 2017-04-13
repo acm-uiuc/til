@@ -1,4 +1,7 @@
-# Change Default Shell For A User
+---
+title: Change Default Shell For A User
+category: unix
+---
 
 You can change the default shell program for a particular unix user with the
 `chsh` command. Just tell it what shell program you want to use (e.g. `bash`

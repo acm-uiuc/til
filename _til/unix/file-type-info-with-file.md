@@ -1,4 +1,7 @@
-# File Type Info With File
+---
+title: File Type Info With File
+category: unix
+---
 
 Use the `file` utility to determine the type of a file:
 

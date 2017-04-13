@@ -1,4 +1,7 @@
-# Curling With Basic Auth Credentials
+---
+title: Curling With Basic Auth Credentials
+category: unix
+---
 
 I often use `curl` to take a quick look at the responses of particular
 endpoints. If I try to `curl` a URL that is secured with HTTP Basic

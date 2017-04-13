@@ -1,4 +1,7 @@
-# List All Users
+---
+title: List All Users
+category: unix
+---
 
 On unix-based systems, all system users are listed with other relevant
 information in the `/etc/passwd` file. You can output a quick list of the

@@ -1,4 +1,7 @@
-# Map A Domain To localhost
+---
+title: Map A Domain To localhost
+category: unix
+---
 
 Do you want your computer to treat a domain as `localhost`? You can map it
 as such in your `/etc/hosts` file. For example, if I have an web app that

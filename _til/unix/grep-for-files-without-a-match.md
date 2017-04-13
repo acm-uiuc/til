@@ -1,4 +1,7 @@
-# Grep For Files Without A Match
+---
+title: Grep For Files Without A Match
+category: unix
+---
 
 The `grep` command is generally used to find files whose contents match a
 pattern. With the `-L` (`--files-without-match`) flag, `grep` can be used to

@@ -1,4 +1,7 @@
-# Less With Style
+---
+title: Less With Style
+category: unix
+---
 
 I was using `less` the other day to look at a log file. The log file was
 filled with ANSI color escape sequences which made it pretty painful to

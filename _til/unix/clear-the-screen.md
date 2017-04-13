@@ -1,4 +1,7 @@
-# Clear The Screen
+---
+title: Clear The Screen
+category: unix
+---
 
 If you type `clear` into your shell, the screen will be cleared. There is a
 handy keybinding though that will save you a few keystrokes. Just hit

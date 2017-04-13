@@ -1,4 +1,8 @@
-# List Of Sessions To A Machine
+---
+title: List Of Sessions To A Machine
+category: unix
+---
+
 
 The `last` command is a handy way to find out who has been connecting to a
 machine and when.

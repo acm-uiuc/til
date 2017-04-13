@@ -1,4 +1,7 @@
-# Check The Current Working Directory
+---
+title: Check The Current Working Directory
+category: unix
+---
 
 Use
 

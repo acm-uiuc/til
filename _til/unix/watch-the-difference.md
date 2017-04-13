@@ -1,3 +1,7 @@
+---
+title: Watch The Difference
+category: unix
+---
 # Watch The Difference
 
 The `watch` command is a simple way to repeatedly run a particular command.

@@ -1,4 +1,7 @@
-# Killing A Frozen SSH Session
+---
+title: Killing A Frozen SSH Session
+category: unix
+---
 
 Whenever an SSH session freezes, I usually mash the keyboard in desperation
 and then kill the terminal session. This can be avoided though. SSH will

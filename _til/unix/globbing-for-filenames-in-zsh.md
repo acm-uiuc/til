@@ -1,4 +1,7 @@
-# Globbing For Filenames In Zsh
+---
+title: Globbing For Filenames In Zsh
+category: unix
+---
 
 Zsh has extensive support for _globbing_ for filenames. _Globbing_ is a
 short-hand, of sorts, for generating filenames that meet certain criteria.

@@ -1,4 +1,7 @@
-# Search Man Page Descriptions
+---
+title: Search Man Page Descriptions
+category: unix
+---
 
 You can use the `apropos` command with a keyword argument to search for that
 words occurrence throughout all the man pages on your system. For instance,

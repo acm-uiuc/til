@@ -1,4 +1,7 @@
-# Open The Current Command In An Editor
+---
+title: Open The Current Command In An Editor
+category: unix
+---
 
 If you are working with a complicated command in the terminal trying to get
 the arguments just right. Such as this `curl`:

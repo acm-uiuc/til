@@ -1,4 +1,7 @@
-# Sort In Numerical Order
+---
+title: Sort In Numerical Order
+category: unix
+---
 
 By default, the `sort` command will sort things alphabetically. If you have
 numerical input though, you may want a numerical sort. This is what the `-n`

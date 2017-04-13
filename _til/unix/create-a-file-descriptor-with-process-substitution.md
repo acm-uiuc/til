@@ -1,4 +1,7 @@
-# Create A File Descriptor with Process Substitution
+---
+title: Create A File Descriptor with Process Substitution
+category: unix
+---
 
 Process substitution can be used to create a file descriptor from the
 evaluation of a shell command. The syntax for process substitution is

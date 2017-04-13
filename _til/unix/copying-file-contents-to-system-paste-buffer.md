@@ -1,4 +1,7 @@
-# Copying File Contents To System Paste Buffer
+---
+title: Copying File Contents To System Paste Buffer
+category: unix
+---
 
 If you need to copy and paste the contents of a file, the `pbcopy` command
 can be one of the best ways to accomplish this. Simply `cat` the file and

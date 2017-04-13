@@ -1,5 +1,7 @@
-# List Parent pid With ps
-
+---
+title: List Parent pid With ps
+category: unix
+---
 The `ps` command, which stands for `process status`, is a great way to find
 different processes running on a machine. Information like their `pid`
 (_process id_) is included. If you are tracking down a process to kill and

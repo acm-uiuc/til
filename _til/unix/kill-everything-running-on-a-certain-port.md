@@ -1,4 +1,7 @@
-# Kill Everything Running On A Certain Port
+---
+title: Kill Everything Running On A Certain Port
+category: unix
+---
 
 You can quickly kill everything running on a certain port with the following
 command.

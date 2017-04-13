@@ -1,4 +1,7 @@
-# SSH With A Specific Key
+---
+title: SSH With A Specific Key
+category: unix
+---
 
 When you SSH into another machine using public key authentication, the
 key pair from either `~/.ssh/id_dsa`, `~/.ssh/id_ecdsa`, or `~/.ssh/id_rsa`

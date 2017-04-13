@@ -1,4 +1,7 @@
-# Only Show The Matches
+---
+title: Only Show The Matches
+category: unix
+---
 
 Tools like `grep`, `ack`, and `ag` make it easy to search for lines in a
 file that contain certain text and patterns. They all come with the `-o`

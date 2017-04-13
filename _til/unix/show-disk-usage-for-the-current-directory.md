@@ -1,4 +1,7 @@
-# Show Disk Usage For The Current Directory
+---
+title: Show Disk Usage For The Current Directory
+category: unix
+---
 
 The `du` utility can be used to show disk usage for a particular directory
 or set of directories. When used without any arguments, it will show the

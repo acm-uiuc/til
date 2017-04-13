@@ -1,3 +1,7 @@
+---
+title: Where Are The Binaries?
+category: unix
+---
 # Where Are The Binaries?
 
 When I want to know where an executable is, I use `which` like so:

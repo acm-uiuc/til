@@ -1,4 +1,7 @@
-# Find Newer Files
+---
+title: Find Newer Files
+category: unix
+---
 
 Use the `-newer` flag with the name of a file to find files that have a
 newer modification date than the named file.

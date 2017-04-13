@@ -1,4 +1,7 @@
-# Hexdump A Compiled File
+---
+title: Hexdump A Compiled File
+category: unix
+---
 
 The `hexdump` unix utility allows you to dump the contents of a
 compiled/executable file in a _readable_ hexadecimal format. Adding the `-C`

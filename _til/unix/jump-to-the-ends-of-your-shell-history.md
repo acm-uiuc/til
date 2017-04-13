@@ -1,4 +1,7 @@
-# Jump To The Ends Of Your Shell History
+---
+title: Jump To The Ends Of Your Shell History
+category: unix
+---
 
 There are all sorts of ways to do things in your shell environment without
 reaching for the arrow keys. For instance, if you want to move _up_ to the

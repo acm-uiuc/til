@@ -1,4 +1,7 @@
-# Globbing For All Directories In Zsh
+---
+title: Globbing For All Directories In Zsh
+category: unix
+---
 
 Globbing in Zsh is an expressive way to generate filenames for commands.
 This includes working with directories. If I'd like to run a command against

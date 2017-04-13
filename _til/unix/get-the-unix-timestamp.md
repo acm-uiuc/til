@@ -1,4 +1,7 @@
-# Get The Unix Timestamp
+---
+title: Get The Unix Timestamp
+category: unix
+---
 
 To get the Unix timestamp from your shell, use the `time` command with the
 appropriate format:

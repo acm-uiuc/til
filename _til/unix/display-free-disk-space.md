@@ -1,4 +1,7 @@
-# Display Free Disk Space
+---
+title: Display Free Disk Space
+category: unix
+---
 
 The `df` utility is a handy way to display the free disk space available on
 on a specific file system or all mounted file systems.

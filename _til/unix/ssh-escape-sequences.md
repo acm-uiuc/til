@@ -1,4 +1,7 @@
-# SSH Escape Sequences
+---
+title: SSH Escape Sequences
+category: unix
+---
 
 In [Killing A Frozen SSH Session](killing-a-frozen-ssh-session.md), I talked
 about an escape sequence for breaking out of an SSH session when the pipe

@@ -1,4 +1,7 @@
-# Global Substitution On The Previous Command
+---
+title: Global Substitution On The Previous Command
+category: unix
+---
 
 Let's say we just executed the following command:
 

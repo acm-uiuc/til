@@ -1,4 +1,7 @@
-# Check If A Port Is In Use
+---
+title: Check If A Port Is In Use
+category: unix
+---
 
 The `lsof` command is used to *list open files*. This includes listing
 network connections. This means I can check if a particular port is in use

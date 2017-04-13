@@ -1,4 +1,7 @@
-# Partial String Matching In Bash Scripts
+---
+title: Partial String Matching In Bash Scripts
+category: unix
+---
 
 To compare two strings in a bash script, you will have a snippet of code
 similar to the following:

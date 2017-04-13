@@ -1,4 +1,7 @@
-# Search History
+---
+title: Search History
+category: unix
+---
 
 Often times there is a very specific command you have entered into your bash
 prompt that you need to run again. You don't want to have to type it again

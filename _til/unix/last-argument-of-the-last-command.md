@@ -1,4 +1,7 @@
-# Last Argument Of The Last Command
+---
+title: Last Argument Of The Last Command
+category: unix
+---
 
 You can use `!$` as a way to reference the last argument in the last
 command. This makes for an easy shortcut when you want to switch out

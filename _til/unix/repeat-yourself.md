@@ -1,4 +1,7 @@
-# Repeat Yourself
+---
+title:  Repeat Yourself
+category: unix
+---
 
 Use the `repeat` command to repeat some other command.
 

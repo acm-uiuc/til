@@ -1,4 +1,7 @@
-# Command Line Length Limitations
+---
+title: Command Line Length Limitations
+category: unix
+---
 
 The other day I tried to run a `rm` command on the contents of a directory
 with a **LOT** of files.
