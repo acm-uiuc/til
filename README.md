@@ -14,7 +14,13 @@ This repo is based on
 and many of the intial TILs are from those repos. 
 
 ## Contributing
-Contributions are welcome, checkout [CONTRIBUTING.md](CONTRIBUTING.md) but the basics are keep it short and file a Pull Request. 
+Contributions are welcome, checkout [CONTRIBUTING.md](CONTRIBUTING.md) but the basics are keep it short and file a Pull Request.
+
+You can quickly html generation with 
+```
+rake proof
+```
+
 
 ## License
 
