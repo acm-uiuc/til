@@ -18,9 +18,9 @@ However Macs are expensive so here are some other good options:
 - Dell Precision
 - HP Spectere 15
 - Any Lenovo **ThinkPad**
-- ASUS ZenBook
+- ASUS ZenBook Pro
 - Surface Book
-- Razer Blade
+- Razer Blade / Blade Stealth
 - System 76 Computers
 
 The recommendation with getting any of these computers is to dual boot Linux. Ubuntu (versions ending .04 are best 
