@@ -9,7 +9,7 @@ install:
 - sudo apt-get install aspell
 - bundle install
 
-script: rake proof
+script: rake test
 
 # branch whitelist, only for GitHub Pages
 branches:
