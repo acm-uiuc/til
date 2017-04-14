@@ -1,6 +1,6 @@
 --- 
 title: Dorm Room Planning
-category: UIUC
+category: uiuc
 ---
 
 When you are planning out the layout for your dorm room, 
