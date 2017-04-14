@@ -2,6 +2,8 @@
 
 > Today I Learned
 
+[![Build Status](https://travis-ci.org/acm-uiuc/til.svg?branch=master)](https://travis-ci.org/acm-uiuc/til)
+
 This is ACM@UIUC's collection of lessons learned and results of hours of google searching. 
 
 
