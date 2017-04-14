@@ -1,5 +1,5 @@
 ---
-title: `undef_method` And The Inheritance Hierarchy
+title: undef_method And The Inheritance Hierarchy
 category: ruby
 ---
 
