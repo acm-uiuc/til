@@ -1,6 +1,6 @@
 ---
 title: Get Hardware Fast
-categories: uiuc
+category: uiuc
 ---
 
 Amazon is great for most things, but there are times when 2 
