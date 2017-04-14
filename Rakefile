@@ -7,6 +7,8 @@ require 'rspec/core/rake_task'
 task :test do 
   RSpec::Core::RakeTask.new(:spec)
   Rake::Task["spec"].execute
+  options = { :assume_extension => true }
+  HTMLProofer.check_directory("./_site").run
 end
 
 task :html do

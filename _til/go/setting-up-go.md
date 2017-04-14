@@ -43,4 +43,4 @@ Now you should be ready to go after you load in the enviorment: ```source  .prof
 
 Go projects typically are located according to url, so ACM's groot-api-gateway package will be located at ```[SOME DIRECTORY]/src/github.com/acm-uiuc/groot-api-gateway```
 
-Maintaining such consistency allows you to use tools like ''go get'' and ''go install'' with little trouble as they will follow this convention
+Maintaining such consistency allows you to use tools like ```go get``` and ```go install``` with little trouble as they will follow this convention

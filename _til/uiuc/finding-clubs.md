@@ -8,7 +8,7 @@ Clubs at UIUC are refered to as Registered Student Organizations (RSOs)
 ## Quad Day and E-Night
 At the start of the school year, there will be two events designed 
 to get new students involved in RSOs on campus. 
-The first one is Quad Day, which typically takes place on the first Sunday of the semster. 
+The first one is Quad Day, which typically takes place on the first Sunday of the semester. 
 During Quad Day, most clubs at Illinois will have booths set up on the main quad. 
 You will be able to go from club to club to talk to their officers, get more information 
 (and lots of free giveaways), and sign up for their mailing list. 

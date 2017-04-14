@@ -15,4 +15,4 @@ with more specific questions. I would also suggest building out your 4 year cour
 to include general education requirements, minors you are interested in, and any study 
 abroad plans to ensure that you can make your college experience as positive as possible. 
 Once you have this built, it can help to show it to an upperclassmen as a sanity check to 
-ensure you aren’t taking multiple extremely difficult classes at once.
+ensure you aren't taking multiple extremely difficult classes at once.

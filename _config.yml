@@ -1,5 +1,3 @@
-# ----
-# Site
 
 title: ACM@UIUC TIL
 url: "https://til.acm.illinois.edu"
@@ -19,8 +17,6 @@ social:
   links:
     - https://github.com/acm-uiuc
 
-# -----
-# Build
 
 permalink: pretty
 
@@ -66,8 +62,6 @@ defaults:
       _comments:
         type: Marks the impact of this release
 
-# -----------
-# CloudCannon
 
 types:
   - minor

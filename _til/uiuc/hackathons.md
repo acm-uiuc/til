@@ -8,7 +8,7 @@ For those of you who are not familiar with a hackathon, it doesn’t refer to ac
 illegally hacking government agencies or companies :D. A collegiate hackathon is essentially 
 an event (usually 24 or 36 hrs) where students build pretty much anything they want using the 
 tools available to them. Usually these end of being software or hardware projects; however, 
-there aren’t any limitations other than the fact that it must be legal. 
+there aren't any limitations other than the fact that it must be legal. 
 
 ## HackIllinois
 [HackIllinois](https://hackillinois.org/)
@@ -29,6 +29,6 @@ in these 24 to 36 hour events. Hackathons are a great opportunity to meet new pe
 make cool projects, eat free food, win prizes, and more! Keep an eye out on the 
 Facebook group to find rides and teams. We'll be coordinating transportation to events 
 and providing opportunities to form teams throughout the semester. Be sure to
-check out https://mlh.io/seasons/na-2017/events for some events. As a freshman, just 
+check out https://mlh.io/ for some events. As a freshman, just 
 apply and see what happens. Purdue, Northern Illinois University, and Northwestern 
 usually throw events in the fall that don't require much commitment.

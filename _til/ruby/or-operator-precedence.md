@@ -35,6 +35,6 @@ Finally, let's capture the result in a variable:
 
 But why is `c` false and not true? Operator precedence. The assignment
 operator (`=`) takes precedence over the `or` operator causing `c` to be
-assigned to the value of `a` (`false`) before `or`'d with `b`.
+assigned to the value of `a` (`false`) before `or` with `b`.
 
 [source](http://stackoverflow.com/questions/2083112/difference-between-or-and-in-ruby)

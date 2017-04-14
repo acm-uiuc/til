@@ -54,7 +54,7 @@ and ACM has its own in the back room of the ACM office
 The Open Lab and the Champaign-Urbana Community Fab Lab both have laser cutting services. 
 
 ## Shopping
-On campus, there aren’t a lot of retail stores yet. Urban Outfitters on Green street
+On campus, there aren't a lot of retail stores yet. Urban Outfitters on Green street
 is the only major clothing/retail store. Cheaper clothing can be found at Ragstock - 
 especially if you’re looking for a last minute sweater or a Halloween costume. If 
 you are looking to get a winter coat, Champaign Surplus is probably the closest 

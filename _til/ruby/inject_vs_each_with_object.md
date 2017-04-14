@@ -18,7 +18,7 @@ This causes a lot of errors like.
   Output: 'IndexError: string not matched'
 ```
 
-The above code causes 'IndexError: string not matched' error.
+The above code causes ```'IndexError: string not matched'``` error.
 
 What you really wanted.
 

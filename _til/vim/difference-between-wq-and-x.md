@@ -1,14 +1,14 @@
 ---
-title: Difference Between :wq and :x
+title: Difference Between ```:wq``` and ```:x```
 category: vim
 ---
 
-The `:wq` command is used in Vim to write and quit. The contents of the
+The ```:wq``` command is used in Vim to write and quit. The contents of the
 buffer are written to disk for the associated file and then the Vim session
 is terminated. So, what is the difference between this and the `:x` command.
 The Vim help files give the following description of the `:x` command:
 
-> Like ":wq", but write only when changes have been made.
+> Like ```:wq```, but write only when changes have been made.
 
 So, `:wq` writes the buffer to disk either way, whereas `:x` just exits if the
 buffer hasn't changed. Either way the contents of the resulting file are

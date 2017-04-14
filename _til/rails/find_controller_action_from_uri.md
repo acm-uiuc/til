@@ -9,7 +9,7 @@ Today I learned that you can extract out the controller and action for a particu
 `ActionDispatch::Routing::RouteSet#recognize_path`,
 which can be called through `Rails.application.routes.recognize_path`.
 
-**Warning**: `#recognize_path` isn't part of Rails' user facing public API.
+**Warning**: `#recognize_path` isn't part of Rails user facing public API.
 Do **not** use in production - its behavior might change without notice.
 
 So given a routes file:

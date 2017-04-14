@@ -15,7 +15,7 @@ this function is defined in the docs:
 
 Having not examined this definition too closely and because I primarily
 write Rails code from day to day, I conflated `_.isEmpty()` with the
-`#blank?` method provided by Rails' `ActiveSupport`. This holds true for the
+`#blank?` method provided by Rails `ActiveSupport`. This holds true for the
 most part, but quickly defies expectations when it comes to numbers.
 
 ```javascript
