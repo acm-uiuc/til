@@ -3,7 +3,7 @@ title: Publishing Code
 category: open source
 ---
 
-As you start to do more programming (both in and out of class), you should consider making them available publicly online via a site like https://github.com/ . This makes it easy for you to accept contributions to your code from other people. It also allows you to show off your projects to companies. Don't be embarrassed if you think the code is not perfect. Your futureprojects will be better, and companies like to see the increase in code quality as you learn more in your classes. 
+As you start to do more programming (both in and out of class), you should consider making them available publicly online via a site like https://github.com/ . This makes it easy for you to accept contributions to your code from other people. It also allows you to show off your projects to companies. Don't be embarrassed if you think the code is not perfect. Your future projects will be better, and companies like to see the increase in code quality as you learn more in your classes. 
 
 The one catch: 
 
