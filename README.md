@@ -15,7 +15,7 @@ and many of the intial TILs are from those repos.
 
 ## Run a Local Copy
 
-To install dependencies install Ruby (v2.3.3) using you prefered method (checkout [Install Ruby with rbenv](_til/ruby/install-ruby-with-rbenv) if you want a guide)
+To install dependencies install Ruby (v2.3.3) using you prefered method (checkout [Install Ruby with rbenv](_til/ruby/install-ruby-with-rbenv.md) if you want a guide)
 
 Then run 
 ```sh
