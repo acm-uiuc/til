@@ -5,9 +5,8 @@ category: open source
 
 As you start to do more programming (both in and out of class), you should consider making them available publicly online via a site like https://github.com/ . This makes it easy for you to accept contributions to your code from other people. It also allows you to show off your projects to companies. Don't be embarrassed if you think the code is not perfect. Your future projects will be better, and companies like to see the increase in code quality as you learn more in your classes. 
 
-The one catch: 
-
-make sure to check with a Professor before posting code for a class assignment as someone may end up copying your code if the assignments aren't changed.
+### The one catch:
+Make sure to check with a Professor before posting code for a class assignment as someone may end up copying your code if the assignments aren't changed.
 
 ## PUT A LICENSE ON IT 
 It pretty important you put a license on a project which you want to release publically.While we are layers and this does not consistute legal advice, code without a license on it 
