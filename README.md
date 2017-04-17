@@ -25,7 +25,7 @@ You can quickly spell check with
 ```
 rake proof
 ```
-Depending on your platform, words will be flagged that are correctly spelled (our baseline will be dictionary-common on Ubuntu 12.04)
+Depending on your platform, words will be flagged that are correctly spelled (our baseline will be dictionary-common on Ubuntu 12.04).
 So if you are 100% sure a word is correctly spelled then add it in all caps to ```mdspell.config``` so it will not be flagged.
 
 To run the full test suite run 
