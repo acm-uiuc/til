@@ -14,11 +14,6 @@ Open a pull request for review.
 
 For help submitting, just clicking on the new file icon, putting in the content and following the steps to create a Pull Request should work. A more indepth guide should be comming soon. 
 
-You can quickly verify html generation with 
-```
-rake proof
-```
-
 
 ## Writing a good a TIL
 
