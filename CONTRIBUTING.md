@@ -30,7 +30,7 @@ If you find TIL straying from these guidelines consider narrowing the scope of
 your TIL or writing a blog post on the subject.
 
 ## Testing
-You can quickly html generation with
+You can quickly test html generation with
 
 ```
 rake html
