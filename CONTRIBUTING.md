@@ -34,3 +34,25 @@ Here's some guidelines on how to write a great TIL:
 If you find TIL straying from these guidelines consider narrowing the scope of
 your TIL or writing a blog post on the subject.
 
+## Testing
+You can quickly html generation with
+
+```
+rake html
+```
+
+You can quickly spell check with
+
+```
+rake proof
+```
+
+Depending on your platform, words will be flagged that are correctly spelled (our baseline will be dictionaries-common on Ubuntu 12.04). So if you are 100% sure a word is correctly spelled then add it in all caps to mdspell.config so it will not be flagged.
+
+To run the full test suite run
+
+```
+rake test
+```
+
+All pull requests must pass the tests (which will be checked automatically with TravisCI)
