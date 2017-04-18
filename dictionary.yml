@@ -429,5 +429,6 @@ ignored [
     "GOOGLE",
     "STARTUP",
     "KEYBINDING",
-    "RBENV"
+    "RBENV",
+    "BOOTLOADER"
 ]
