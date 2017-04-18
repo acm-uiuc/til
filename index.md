@@ -1,5 +1,5 @@
 ---
-title: Things We Learned
+title: Today We Learned
 ---
 
 We spend a lot of time looking for answers and a lot of times it's stuff we already searched for.
