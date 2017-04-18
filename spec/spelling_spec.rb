@@ -33,7 +33,7 @@ end
 
 describe 'TILs' do 
     it 'are all spelled correctly' do
-        check = CheckSpelling.new("mdspell.config" , "_til/")
+        check = CheckSpelling.new("dictionary.yml" , "_til/")
         expect(check.areCorrectlySpelled()).to be true
     end
 end
