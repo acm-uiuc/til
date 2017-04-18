@@ -11,9 +11,9 @@ description: Things we learned.
 author:
   name: ACM@UIUC
   email: til@acm.illinois.edu
-  twitter: ACM-UIUC# twitter username without the @ symbol
+  twitter: ACM-UIUC
 social:
-  name: ACM@UIUC TIL
+  name: ACM@UIUC 
   links:
     - https://github.com/acm-uiuc
 
@@ -34,7 +34,7 @@ exclude:
 
 collections:
   til:
-    title: Things We Learned
+    title: Today We Learned
     permalink: /:path/
     output: true
 
