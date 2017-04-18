@@ -3,7 +3,7 @@ title: Install Ubuntu
 category: linux
 ---
 
-Do you want to move from Windows into a UNIX like dev envirnoment? Ubuntu is an easy way to get your feet wet and try out Linux.
+Do you want to move from Windows into a UNIX like dev environment? Ubuntu is an easy way to get your feet wet and try out Linux.
 
 ## Basic Installation
 
