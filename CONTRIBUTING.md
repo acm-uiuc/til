@@ -2,6 +2,8 @@
 
 > Contribution Guide from https://github.com/thoughtbot/til
 
+*All TILs are located in _til/*
+
 When you learn something,
 add a Markdown file to
 this repo explaining it in concise terms.
