@@ -1,6 +1,6 @@
 ---
 title: Two ways of squashing commits
-category: git
+category: git/committing
 ---
 
 It is handy to squash down your commits before merging your PR with
