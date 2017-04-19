@@ -1,6 +1,6 @@
 ---
 title: Reference A Commit Via Commit Message Pattern Matching 
-category: git
+category: git/history
 ---
 
 Generally when referencing a commit, you'll use the SHA or a portion of the
