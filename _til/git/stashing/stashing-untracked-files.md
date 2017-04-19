@@ -1,6 +1,6 @@
 ---
 title: Stashing Untracked Files
-category: git
+category: git/stashing
 ---
 
 Normally when stashing changes, using `git stash`, git is only going to
