@@ -1,6 +1,6 @@
 ---
 title: Excluding Files Locally
-category: git
+category: git/tracking
 ---
 
 Excluding (read: ignoring) files that should not be tracked is generally
