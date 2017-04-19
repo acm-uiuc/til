@@ -1,6 +1,6 @@
 ---
 title: Checking Commit Ancestry
-category: git
+category: git/committing
 ---
 
 I have two commit shas and I want to know if the first is an ancestor of the
