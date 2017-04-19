@@ -1,6 +1,6 @@
 ---
 title: What Is The Current Branch?
-category: git
+category: git/branching
 ---
 
 This question can be answered with one of git's plumbing commands,
