@@ -1,6 +1,6 @@
 ---
-title: Gitignore
-category: git
+title: .gitignore
+category: git/tracking
 ---
 
 Typically there are compiled files or very large generated files that you don't want tracked on remotes. So instead of being careful about what you do want to add and what you don't you can just use a gitignore to tell git what not to track. 
