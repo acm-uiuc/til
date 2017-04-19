@@ -5,6 +5,13 @@ baseurl:
 google_analytics_key:
 show_full_navigation: true
 
+# Dependencies
+markdown:    kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: pygments
+
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Things we learned.
