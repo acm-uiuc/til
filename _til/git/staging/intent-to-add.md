@@ -1,6 +1,6 @@
 ---
 title: Intent To Add 
-category: git
+category: git/staging
 ---
 
 Git commands like `git diff` and `git add --patch` are awesome, but their
