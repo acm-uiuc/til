@@ -1,6 +1,6 @@
 ---
 title: Resetting A Reset 
-category: git
+category: git/staging
 ---
 
 Sometimes we run commands like `git reset --hard HEAD~` when we shouldn't
