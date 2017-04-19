@@ -1,6 +1,6 @@
 ---
 title: List Untracked Files
-category: git
+category: git/tracking
 ---
 
 Git's `ls-files` command is a plumbing command that allows you to list
