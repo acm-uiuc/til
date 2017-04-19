@@ -1,6 +1,6 @@
 ---
 title: Cherry Pick A Range Of Commits
-category: git
+category: git/committing
 ---
 
 Git's `cherry-pick` command allows you to specify a range of commits to be
