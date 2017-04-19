@@ -1,6 +1,6 @@
 ---
 title: Show All Commits For A File Beyond Renaming 
-category: git
+category: git/committing
 ---
 
 By including `-- <filename>` with a `git log` command, we can list all the
