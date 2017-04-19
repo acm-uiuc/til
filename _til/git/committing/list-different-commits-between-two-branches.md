@@ -1,6 +1,6 @@
 ---
 title: List Different Commits Between Two Branches 
-category: git
+category: git/committing
 ---
 
 There are times when I want to get a sense of the difference between two

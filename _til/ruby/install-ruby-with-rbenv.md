@@ -51,4 +51,4 @@ gem install bundler
 You should now be good to go to start working on your ruby projects 
 
 
-To learn more see: https://github.com/rbenv/rbenv
+To learn more see: [https://github.com/rbenv/rbenv](https://github.com/rbenv/rbenv)

@@ -1,6 +1,6 @@
 ---
 title: Staging and Committing
-category: git
+category: git/staging
 ---
 
 ## Staging 

@@ -1,6 +1,6 @@
 ---
 title: Checkout Previous Branch
-category: git
+category: git/branching
 ---
 
 Sometimes a project can get to a point where there are so many local

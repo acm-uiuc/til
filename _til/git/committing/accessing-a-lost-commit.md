@@ -1,6 +1,6 @@
 ---
 title: Accessing A Lost Commit
-category: git
+category: git/committing
 ---
 
 

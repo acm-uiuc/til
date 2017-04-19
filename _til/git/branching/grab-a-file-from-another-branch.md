@@ -1,6 +1,6 @@
 ---
 title: Use a file from another branch
-category: git
+category: git/branching
 ---
 
 Sometimes you just need one file from another branch. Sure you could `git

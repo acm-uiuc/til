@@ -1,6 +1,6 @@
 ---
 title: Stashing Only Unstaged Changes
-category: git
+category: git/stashing
 ---
 
 If you have both staged and unstaged changes in your project, you can

@@ -1,6 +1,6 @@
 ---
 title: Grab A Single File From A Stash
-category: git
+category: git/stashing
 ---
 
 In git, you can reference a commit SHA or branch to checkout differing

@@ -1,6 +1,6 @@
 ---
 title: Staging Stashes Interactively
-category: git
+category: git/staging
 ---
 
 The `-p` flag can be used with `git stash`, just as it is used with `git add`,

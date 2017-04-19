@@ -1,6 +1,6 @@
 ---
 title: Verbose Commit Message
-category: git
+category: git/committing
 ---
 
 Git allows you to display a *diff* of the staged changes in the commit
