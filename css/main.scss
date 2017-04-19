@@ -30,6 +30,20 @@ $full-width-break: $nav-width + ($space * 4) + $content-max-width;
 @import "tables";
 @import "layout";
 
-summary::-webkit-details-marker {
+details > summary::-webkit-details-marker {
     display: none
+}
+
+details > summary:before {
+    display: inline-block;
+    content: "+";
+    font-size: 14px;
+    font-weight: bolder;
+    text-align: center;
+    margin-left: 8px;
+    width: 14px;
+}
+
+details[open] > summary:before {
+    content: "-";
 }
