@@ -1,5 +1,5 @@
 ---
-title: exercise
+title: Exercise
 category: life
 ---
 
