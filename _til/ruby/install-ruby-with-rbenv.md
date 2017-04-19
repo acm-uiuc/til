@@ -1,6 +1,6 @@
 ---
 title: Install Ruby with rbenv
-category
+category: ruby
 ---
 
 Ruby comes by default with MacOS and is easy to install with ```apt-get``` 
