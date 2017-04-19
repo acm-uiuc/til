@@ -1,6 +1,6 @@
 ---
 title: Move The Latest Commit To A New Branch
-category: git
+category: git/branching
 ---
 
 I sometimes find myself making a commit against the `master` branch that I
