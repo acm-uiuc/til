@@ -1,6 +1,6 @@
 ---
 title: Password Management
-category: internet
+category: security
 ---
 You are going to have quite a few different passwords throughout your 
 time at Illinois. Your primary university password can be changed here: 
