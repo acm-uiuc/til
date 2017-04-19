@@ -1,6 +1,6 @@
 ---
 title: Amend Author Of Previous Commit
-category: git/commiting
+category: git/committing
 ---
 
 The author of the previous commit can be amended with the following command
