@@ -1,6 +1,6 @@
 ---
 title: Grep Over Commit Messages 
-category: git
+category: git/committing
 ---
 
 
