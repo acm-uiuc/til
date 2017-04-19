@@ -3,7 +3,7 @@ title: Biking
 category: uiuc
 ---
 
-#Best Type of Bike
+## Best Type of Bike
 The best type of bike is a cheap bike. You will not being treating your
 bike well, leaving it outside in the rain and snow so don't bring your 
 carbon racing bike or you full suspension bike (though there are some good
