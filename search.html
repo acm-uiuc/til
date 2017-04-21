@@ -8,7 +8,7 @@ sitemap: false
 
 <script>
 	window.data = {
-		{% for item in site.docs %}
+		{% for item in site.til %}
 			{% if item.title %}
 				{% unless item.excluded_in_search %}
 					{% if added %},{% endif %}
