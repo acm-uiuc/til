@@ -1,6 +1,6 @@
 ---
 title: Last Commit A File Appeared In 
-category: git
+category: git/history
 ---
 
 In my project, I have a `README.md` file that I haven't modified in a while.

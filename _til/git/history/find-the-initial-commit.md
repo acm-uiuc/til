@@ -1,6 +1,6 @@
 ---
 title: Find The Initial Commit
-category: git/committing
+category: git/history
 ---
 
 By definition, the initial commit in a repository has no parents. You can

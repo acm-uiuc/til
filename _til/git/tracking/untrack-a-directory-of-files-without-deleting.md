@@ -1,6 +1,6 @@
 ---
 title: Untrack A Directory Of Files Without Deleting
-category: git
+category: git/tracking
 ---
 
 In [Untrack A File Without Deleting It](untrack-a-file-without-deleting-it.md),

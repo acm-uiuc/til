@@ -1,6 +1,6 @@
 ---
 title: Untrack A File Without Deleting It
-category: git
+category: git/tracking
 ---
 
 Generally when I invoke `git rm <filename>`, I do so with the intention of

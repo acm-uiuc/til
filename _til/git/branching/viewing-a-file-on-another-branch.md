@@ -1,6 +1,6 @@
 ---
 title: Viewing A File On Another Branch
-category: git
+category: git/branching
 ---
 
 Sometimes you want to view a file on another branch (without switching

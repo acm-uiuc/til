@@ -1,6 +1,6 @@
 ---
 title:  Delete All Untracked Files
-category: git
+category: git/tracking
 ---
 
 Git provides a command explicitly intended for cleaning up (read: removing)

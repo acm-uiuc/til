@@ -1,6 +1,6 @@
 ---
 title: Clean Up Old Remote Tracking References
-category: git
+category: git/tracking
 ---
 
 After working on a Git-versioned project for a while, you may find that

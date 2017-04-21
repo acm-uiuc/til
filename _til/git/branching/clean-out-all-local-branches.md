@@ -1,5 +1,5 @@
 ---
-title: Checkout Previous Branch
+title: Clean Out All Local Branches
 category: git/branching
 ---
 

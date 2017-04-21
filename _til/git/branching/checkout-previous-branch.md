@@ -1,6 +1,6 @@
 ---
 title: Checkout Previous Branch
-category: git
+category: git/branching
 ---
 
 Git makes it easy to checkout the last branch you were on.

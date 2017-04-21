@@ -1,6 +1,6 @@
 ---
 title: Ignore Changes To A Tracked File 
-category: git
+category: git/tracking
 ---
 
 Files that should never be tracked are listed in your `.gitignore` file. But
