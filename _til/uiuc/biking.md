@@ -16,8 +16,7 @@ If you decide to bring a bike, don't forget the accessories.
 You will want to bring a bike lock (or locks) so that you 
 can securely lock up your bike (both wheels and the frame). 
 Try to buy a U-Lock, while Chambana is relatively safe, bike 
-theft is frequent and typically a cable lock is not much of a 
-deterent (I/Naren learned this the hard way).  
+theft is frequent and typically a cable lock does not put up much of a fight (I/Naren learned this the hard way).  
 If you are planning on riding after dusk, you will need a 
 bike light (ideally a front and rear light). An air pump and 
 bike wrenches are not completely necessary. There are numerous 
