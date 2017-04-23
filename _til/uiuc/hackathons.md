@@ -30,5 +30,5 @@ make cool projects, eat free food, win prizes, and more! Keep an eye out on the
 Facebook group to find rides and teams. We'll be coordinating transportation to events 
 and providing opportunities to form teams throughout the semester. Be sure to
 check out https://mlh.io/ for some events. As a freshman, just 
-apply and see what happens. Purdue, Northern Illinois University, and Northwestern 
+apply and see what happens. Purdue, Michigan, and Northwestern 
 usually throw events in the fall that don't require much commitment.
