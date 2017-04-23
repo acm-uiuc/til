@@ -3,7 +3,7 @@ title: Undergrad Research
 category: uiuc
 ---
 One way to get involved with 
-research is through PURE (https://wiki.cites.illinois.edu/wiki/display/PURE/Information). 
+research is through [PURE](https://wiki.cites.illinois.edu/wiki/display/PURE/Information). 
 This is a program designed specifically to help get underclassmen involved with research. 
 They even put on a small symposium at the end to allow the students to show off what 
 they have worked on. The second common approach to getting involved with research is 
@@ -18,7 +18,7 @@ you are persistent and don't give up.
 
 In addition to opportunities within the Computer Science department, the National 
 Center for Supercomputing Applications (NCSA) offers a special program, Students 
-Pushing Innovation (SPIN: http://spin.ncsa.illinois.edu/), that allows undergraduate 
+Pushing Innovation ([SPIN](http://spin.ncsa.illinois.edu/)), that allows undergraduate 
 students to get involved in technical projects under a mentor as well. The building is 
 located right across from Siebel Center. NCSA holds a special open house in the Fall 
 that allows prospective students to talk with the mentors who are seeking undergraduate
