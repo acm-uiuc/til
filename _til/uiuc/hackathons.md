@@ -20,7 +20,7 @@ essentially mini hackathons that are focussed within UIUC and will be themed tow
 (i.e. Finance). If you are interested in helping organize either of these keep a lookout for more 
 information on Facebook by liking the pages and joining the group. 
 
-Side Note: we are also big proponents of Open Source! If you are interested in contributing, check out: https://github.com/HackIllinois/api-2017/tree/staging) 
+> Side Note: we are also big proponents of Open Source! If you are interested in contributing, check out: [https://github.com/HackIllinois/api-2017/tree/staging](https://github.com/HackIllinois/api-2017/tree/staging) 
 
 ## IlliniHackers
 There's a lot more Hackathons than just HackIllinois. 
