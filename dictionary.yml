@@ -432,5 +432,6 @@ ignored [
     "RBENV",
     "BOOTLOADER",
     "AWK",
-    "SUBSTRING"
+    "SUBSTRING",
+    "VENDORING"
 ]
