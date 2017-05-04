@@ -31,6 +31,7 @@ Enter the new value, or press ENTER for the default
     Other []:
 Is the information correct? [Y/n]
 ```
+
 For how to make the user a ```sudoer``` go to [Add a User to the Sudoers Group](til.acm.illinois.edu/linux/add-user-to-sudoers)
 
 For how to change your password go to [Change Password](til.acm.illinois.edu/linux/change-password)
