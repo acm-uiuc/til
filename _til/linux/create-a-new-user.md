@@ -32,6 +32,23 @@ Enter the new value, or press ENTER for the default
 Is the information correct? [Y/n]
 ```
 
+To add a home directory for your new user 
+
+```
+mkdir -p /home/username
+
+useradd -d /home/username username
+```
+
+
+If the username has already been added using ```useradd```, then you can use ```usermod```.
+
+```
+usermod -d /home/username username
+```
+
 For how to make the user a ```sudoer``` go to [Add a User to the Sudoers Group](til.acm.illinois.edu/linux/add-user-to-sudoers)
 
 For how to change your password go to [Change Password](til.acm.illinois.edu/linux/change-password)
+
+
