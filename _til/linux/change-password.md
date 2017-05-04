@@ -1,5 +1,5 @@
 ---
-title: Chanage Your Password
+title: Change Your Password
 category: linux 
 ---
 
