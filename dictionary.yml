@@ -433,5 +433,7 @@ ignored [
     "BOOTLOADER",
     "AWK",
     "SUBSTRING",
-    "VENDORING"
+    "VENDORING",
+    "SUDO",
+    "SUDOER"
 ]
