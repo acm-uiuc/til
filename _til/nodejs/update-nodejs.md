@@ -15,7 +15,7 @@ sudo n stable
 ### Using ```nvm```
 
 This is my perfered way since its similar to ruby version management. 
-See [Installing NVM](til.acm.illinois.edu/til/nodejs/installing-nvm) for instructions on installing ```nvm```
+See [Installing NVM](til.acm.illinois.edu/til/nodejs/instal-nvm) for instructions on installing ```nvm```
 
 ```
 nvm install VERSION
