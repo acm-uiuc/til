@@ -1,6 +1,6 @@
 --- 
 title: NPM won't run arbitrary scripts
-category: javascript
+category: nodejs
 ---
 
 
