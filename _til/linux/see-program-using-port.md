@@ -22,5 +22,5 @@ proxy     1289     1  0 09:48 ?        00:00:00 /usr/sbin/squid3 -N -f /etc/squi
 
 Then you can kill the program with 
 ```
-$ kill 1289
+$ kill -SIGKILL 1289
 ```
