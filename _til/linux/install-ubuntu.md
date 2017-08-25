@@ -6,7 +6,8 @@ category: linux
 Do you want to move from Windows into a UNIX like dev environment? Ubuntu is an easy way to get your feet wet and try out Linux.
 
 ## Creating bootable media
-Ubuntu comes from the web as a .iso file. Here's how to set it up on Windows using Rufus:
+Ubuntu comes from the web as a .iso file.
+### Windows
 * Download the Ubuntu image from [Canonical](https://www.ubuntu.com/download)
 * Download [Rufus](https://rufus.akeo.ie/)
 * Acquire a a USB flash drive of at least 2GB
@@ -18,6 +19,12 @@ Ubuntu comes from the web as a .iso file. Here's how to set it up on Windows usi
 * Confirm that the USB you selected is correct
 * Press OK and sit back!
 
+### Mac
+https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-macos#0
+
+### Other Ubuntu Install
+Ubuntu packages a startup disk creator. Launch the application and follow the instructions
+
 ## Basic Installation
 
 Ubuntu ships with a very straight forward installer and makes set up a snap. Here are the only steps:
@@ -26,11 +33,14 @@ Ubuntu ships with a very straight forward installer and makes set up a snap. Her
 * Choose to install updates
 * Choose to install 3rd party non-free items (Free as libre, not cost wise. The non-free items are non-open source, but will cost you nothing)
 * Create a user and hostname (hostname is the name of your computer)
-* Partition the disk (See below. Manual partitioning is generally not required as the installer will offer both dual-boot options and full replacement automatically)
+* Select the relevant install option (Install along side or overwrite current OS)
 * Choose your location for time/date
 * Sit back, relax, and wait a few minutes for installation to finish
 
-## Partitions
+## Advanced Setups
+Sometimes it is required to make a more complex partition scheme 
+
+### Partitions
 Partitioning is required if you want more complicated layouts for you storage i.e you want all your documents on one disk but the os on another, or you are dealing with a volatile system and need to insure exact partition layouts.
 
 SWAP: Space reserved on the disk designed to provide backup memory space for the system. 
