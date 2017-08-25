@@ -2,6 +2,8 @@
 
 > Contribution Guide from https://github.com/thoughtbot/til
 
+*All TILs are located in _til/*
+
 When you learn something,
 add a Markdown file to
 this repo explaining it in concise terms.
@@ -42,7 +44,7 @@ You can quickly spell check with
 rake proof
 ```
 
-Depending on your platform, words will be flagged that are correctly spelled (our baseline will be dictionaries-common on Ubuntu 12.04). So if you are 100% sure a word is correctly spelled then add it in all caps to ```dictionary.yml``` so it will not be flagged.
+Depending on your platform, words will be flagged that are correctly spelled (our baseline will be dictionaries-common on Ubuntu 14.04). So if you are 100% sure a word is correctly spelled then add it in all caps to ```dictionary.yml``` so it will not be flagged.
 
 To run the full test suite run
 

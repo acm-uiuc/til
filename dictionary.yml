@@ -430,5 +430,11 @@ ignored [
     "STARTUP",
     "KEYBINDING",
     "RBENV",
-    "BOOTLOADER"
+    "BOOTLOADER",
+    "AWK",
+    "SUBSTRING",
+    "VENDORING",
+    "SUDO",
+    "SUDOER",
+    "NVM"
 ]

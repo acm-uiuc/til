@@ -69,7 +69,8 @@ body {
 
 .main {
 	margin-top: $space + $nav-header-height;
-
+	height: 100vh;
+	overflow-y: scroll;
 	@media (min-width: $mobile-break) {
 		margin-top: 0;
 	}
@@ -115,6 +116,14 @@ header {
 			width: $emblem-size;
 			margin-right: $space - 5;
 		}
+	}
+
+	.article-list {
+		overflow-y: scroll;
+		height: calc(100vh - 195px);
+		height: -o-calc(100vh - 195px); /* opera */
+		height: -webkit-calc(100vh - 195px); /* google, safari */
+		height: -moz-calc(100vh - 195px); /* firefox */
 	}
 
 	.open-nav {
@@ -246,7 +255,7 @@ nav > ul {
 		text-decoration: none;
 		font-size: 1.4rem;
 		padding: $space / 2 0 $space / 2 $space * 2;
-		display: block;
+		display: inline-block;
 	}
 
 	&.current > a,

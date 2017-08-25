@@ -5,15 +5,22 @@ baseurl:
 google_analytics_key:
 show_full_navigation: true
 
+# Dependencies
+markdown:    kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Things we learned.
 author:
   name: ACM@UIUC
   email: til@acm.illinois.edu
-  twitter: ACM-UIUC# twitter username without the @ symbol
+  twitter: ACM-UIUC
 social:
-  name: ACM@UIUC TIL
+  name: ACM@UIUC 
   links:
     - https://github.com/acm-uiuc
 
@@ -34,7 +41,7 @@ exclude:
 
 collections:
   til:
-    title: Things We Learned
+    title: Today We Learned
     permalink: /:path/
     output: true
 
