@@ -436,5 +436,12 @@ ignored [
     "VENDORING",
     "SUDO",
     "SUDOER",
-    "NVM"
+    "NVM",
+    "BOOTABLE",
+    "ISO",
+    "DROPDOWN",
+    "OS",
+    "LIBRE",
+    "UBUNTU",
+    "FREEDOS"
 ]
