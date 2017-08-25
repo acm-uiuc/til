@@ -20,7 +20,7 @@ Ubuntu comes from the web as a .iso file.
 * Press OK and sit back!
 
 ### Mac
-https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-macos#0
+[Mac Instructions](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-macos#0)
 
 ### Other Ubuntu Install
 Ubuntu packages a startup disk creator. Launch the application and follow the instructions
