@@ -28,6 +28,9 @@ Ubuntu packages a startup disk creator. Launch the application and follow the in
 ## Basic Installation
 
 Ubuntu ships with a very straight forward installer and makes set up a snap. Here are the only steps:
+* Plugin the bootable media into your computer with it shut down
+* Enter the Bootloader (typically pressing F2, F12 or Del before the OS Loads)
+* Select the USB drive to boot from
 * Choose a language and keyboard layout (Usually English-US for both)
 * Connect to a network (Optional, convenient to install updates during installation)
 * Choose to install updates
