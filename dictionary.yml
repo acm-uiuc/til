@@ -443,5 +443,10 @@ ignored [
     "OS",
     "LIBRE",
     "UBUNTU",
-    "FREEDOS"
+    "FREEDOS",
+    "ENDIF",
+    "ENDFOR",
+    "PERMALINK",
+    "MD",
+    "MD'"
 ]
