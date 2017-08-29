@@ -1,6 +1,6 @@
 ---
 title: List Available File Types
-category: ack
+category: bash
 ---
 
 The `ack` utility allows you to filter the searched files based on file

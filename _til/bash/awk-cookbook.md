@@ -1,6 +1,6 @@
 ---
 title: Awk Cookbook
-category: awk
+category: bash
 ---
 
 This is a collection of snipits of common tasks 

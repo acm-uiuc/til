@@ -1,6 +1,6 @@
 ---
 title: Globbing For All Directories In Zsh
-category: unix
+category: zsh
 ---
 
 Globbing in Zsh is an expressive way to generate filenames for commands.

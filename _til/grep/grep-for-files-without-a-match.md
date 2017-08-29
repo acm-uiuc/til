@@ -1,6 +1,6 @@
 ---
 title: Grep For Files Without A Match
-category: unix
+category: grep
 ---
 
 The `grep` command is generally used to find files whose contents match a

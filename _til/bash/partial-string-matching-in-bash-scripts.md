@@ -1,6 +1,6 @@
 ---
 title: Partial String Matching In Bash Scripts
-category: unix
+category: bash
 ---
 
 To compare two strings in a bash script, you will have a snippet of code
