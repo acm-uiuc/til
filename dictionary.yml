@@ -448,5 +448,8 @@ ignored [
     "ENDFOR",
     "PERMALINK",
     "MD",
-    "MD'"
+    "MD'",
+    "XML",
+    "SUBMODULES",
+    
 ]
