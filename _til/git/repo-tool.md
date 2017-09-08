@@ -4,7 +4,7 @@ category: git
 ---
 
 When getting into more complicated software development, you will usually end
-up having code split in mulitple repos. Groot, Merch and the GPU Cluster
+up having code split in multiple repos. Groot, Merch and the GPU Cluster
 are all examples of modular projects with multiple repos. 
 
 There are a couple ways to manage all the repos you use. Git submodules are one
