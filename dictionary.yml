@@ -451,5 +451,8 @@ ignored [
     "MD'",
     "XML",
     "SUBMODULES",
+    "CODESTYLE",
+    "LINTER",
+    "ESLINT"
     
 ]
