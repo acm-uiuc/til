@@ -1,6 +1,6 @@
 ---
 title: Globbing For Filenames In Zsh
-category: unix
+category: zsh
 ---
 
 Zsh has extensive support for _globbing_ for filenames. _Globbing_ is a

@@ -1,6 +1,6 @@
 ---
 title: ack --bar
-category: ack
+category: bash
 ---
 
 The [`ack`](https://beyondgrep.com/) utility has a fun Easter egg that dumps

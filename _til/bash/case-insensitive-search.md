@@ -1,6 +1,6 @@
 ---
 title: Case-Insensitive Search
-category: ack
+category: bash
 ---
 
 Use the `-i` flag to perform a case-insensitive search with `ack`.
