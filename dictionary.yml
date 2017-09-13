@@ -453,6 +453,12 @@ ignored [
     "SUBMODULES",
     "CODESTYLE",
     "LINTER",
-    "ESLINT"
+    "ESLINT",
+    "DARKTABLE",
+    "IRC",
+    "EVERNOTE",
+    "OPENSHOT",
+    "INKSCAPE",
+    "LIGHTROOM"
     
 ]
