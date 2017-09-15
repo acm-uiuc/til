@@ -19,3 +19,4 @@ This page serves the purpose of providing free and open source software alternat
 | Adobe Premiere Pro | OpenShot |
 | Microsoft Office | LibreOffice |
 | Evernote | Paperwork |
+| Clip Studio | Krita |
