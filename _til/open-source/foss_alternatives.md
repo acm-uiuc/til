@@ -13,7 +13,7 @@ This page serves the purpose of providing free and open source software alternat
 | Microsoft Edge | Mozilla Firefox |
 | Skype | Wire |
 | Slack | IRC |
-| Adobe Photoshop | GIMP | 
+| Adobe Photoshop | GIMP |
 | Adobe Illustrator | Inkscape |
 | Adobe Lightroom | darktable |
 | Adobe Premiere Pro | OpenShot |
