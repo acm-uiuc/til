@@ -10,13 +10,13 @@ This page serves the purpose of providing free and open source software alternat
 
 | Propreitary Application | FOSS Alternative |
 | --- | --- |
-| Microsoft Edge | Mozilla Firefox |
-| Skype | Wire |
-| Slack | IRC |
-| Adobe Photoshop | GIMP |
-| Adobe Illustrator | Inkscape |
-| Adobe Lightroom | darktable |
-| Adobe Premiere Pro | OpenShot |
-| Microsoft Office | LibreOffice |
-| Evernote | Paperwork |
-| Clip Studio | Krita |
+| Microsoft Edge | [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) |
+| Skype | [Wire](https://wire.com/en/) |
+| Slack | [IRC](https://webchat.freenode.net/) |
+| Adobe Photoshop | [GIMP](https://www.gimp.org/) |
+| Adobe Illustrator | [Inkscape](https://inkscape.org/en/) |
+| Adobe Lightroom | [darktable](https://www.darktable.org/) |
+| Adobe Premiere Pro | [OpenShot](http://www.openshot.org/) |
+| Microsoft Office | [LibreOffice](https://www.libreoffice.org/) |
+| Evernote | [Paperwork](http://paperwork.rocks/) |
+| Clip Studio | [Krita](https://krita.org/en/) |
