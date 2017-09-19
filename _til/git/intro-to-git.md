@@ -3,7 +3,7 @@ title: Introduction to Git
 category: git
 ---
 ## What is Git
-Git is a distributed version control system. Version control is a system used to track changes in a file or a set of files over time. VC is most commonly used to track code changes on software projects. Git is different than most VC systems as it is distributed, so every user has every change that is ever made. 
+Git is a distributed version control system. Version control is a system used to track changes in a file or a set of files over time. Version control is most commonly used to track code changes on software projects. Git is different than most version control systems as it is distributed, so every user has every change that is ever made. 
 
 ### Creating a New Repository
 A repository is simply a collection of objects being tracked by git.
@@ -36,7 +36,7 @@ Branching is the idea of splitting off of the master branch to implement a featu
 * Make a branch available to others on a remote server by running ```git push origin [branch name]```
 
 ### Update and Merge
-Merging is the concept of bringing together sets of changes. Git has the ability to automatically merge if there are no conflicts, however if there is a conflict you will have to manually decide which changes to keep, or ammend the conflicting files. 
+Merging is the concept of bringing together sets of changes. Git has the ability to automatically merge if there are no conflicts, however if there is a conflict you will have to manually decide which changes to keep, or amend the conflicting files. 
 * Update your local repo by running ```git pull```
 * Merge another branch into your current branch by running ```git merge [branch name]```
 
