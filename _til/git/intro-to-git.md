@@ -2,19 +2,82 @@
 title: Introduction to Git
 category: git
 ---
+## Version Control
+When you write a word document, you tend to want to keep old copies around just in case you want to grab a snipit or go back. You also may be working with other people on the document, so you and your partner will both have a copy and at the end will try to merge the two documents into a single one. 
+
+Writing code (especially in groups) is the same way. People have developed pieces of software to manage code changes. This is called Version Control. 
+
+For example:
+
+Ann has some changes to file called `x.py` that she wants to share with other developers on a project. So she puts the file on a server for others to get. 
+
+Bob wants to work on a new function in `x.py` called `my_function` so he downloads Ann's `x.py` and starts writing.
+At the same time, Ann wants to add a function called `my_function` in `x.py` as well. 
+Ann gets done first and uploads the new version of `x.py`. 
+But now Bob wants to submit his `x.py`, however now there are two different `my_function`s
+So Ann and Bob now need to agree which version to use
+
+What version control allows you to do is to resolve these sort of issues easily. 
+
+Some common version control systems include:
+
+- Git
+- Mercuiral 
+- SVN 
+- CVS
+- Perforce
+
 ## What is Git
-Git is a distributed version control system. Version control is a system used to track changes in a file or a set of files over time. Version control is most commonly used to track code changes on software projects. Git is different than most version control systems as it is distributed, so every user has every change that is ever made. 
+Git is a distributed version control system. So unlike what is described above where Ann uploads her new changes to a server which keeps a master copy of all the code (this is how SVN works), everyone maintains their own master copy and developers grab changes from other developers directly. 
+
+For example:
+
+Ann has some changes to file called `x.py`. She `"commits"` her new code to her local master copy and keeps working.
+
+Bob wants to work on a new function in `x.py` called `my_function` so he `"pulls"` Ann's latests master copy which includes her `x.py` changes directly and starts writing.
+
+At the same time, Ann wants to add a function called `my_function` in `x.py` as well. 
+Ann gets done first and `"commits"` the new version of `x.py` to her local master copy. 
+
+Bob gets done `"commits"` the his version of `x.py` to his local master copy. 
+
+Now Bob and Ann decide they want to use Bob's `my_function`. All that needs to be done is for Ann to `"pull"` Bobs master copy.
+
+Sometimes it is convenint to have a place to discuss code changes and do planning, and this is what Git Hosting Services like Github and Gitlab are. The nice thing about git is you can also `"push"` your changes to another developer, so many groups will `"push"` their changes to github to get feedback.
 
 ### Creating a New Repository
-A repository is simply a collection of objects being tracked by git.
-1. Create or navigate to the directory you want under version control
+A project in git is called a repository and it looks like a simple folder at first glance. All the code for a project should be in the repository
+1. Create or navigate to the directory you want under version control (e.g. `mkdir groot-git-service`)
 2. Run ```git init``` to start tracking changes
 
+What will happen is git will create a folder .git to hold old copies (you can see this folder with `ls -a` but you can just ignore it for the most part)
+
 ### Checking out a Remote Repository
-A remote repository is one that is hosted on a server outside of your local machine. Most repositories you will work with are hosted on GitHub or GitLab, and you then access that remote repo on your local machine to make your changes.
-1. Navigate to the location you want to clone the repo into
-2. Run ```git clone [username@host:repo]``` to clone the repo
-3. Run ```cd [repo]``` to access the repo
+What happens if you are not the creator of the project and you download everything to start developing?
+
+This is called `"cloning"` in git.
+
+All that is required to get a copy of the project is to know where to copy it from. Usually, if you host your code on a site like GitHub, your project will have a URL (just like any other website e.g. https://github.com/acm-uiuc/arbor). 
+
+To get a copy of arbor you can just run:
+
+```
+git clone https://github.com/acm-uiuc/arbor.git
+```
+
+URLs are one way to get your project, what ACM recommends is to use ssh, where you will login to a remote server and copy the code that way. 
+
+_This requires to have ssh access to the remote server. Instructions on how to do this for GitHub are here: //TODO insert_
+
+Then you can just tell Git how to login:
+
+```
+git clone [username@host:repo]
+
+e.g: git clone git@github.com:acm-uiuc/arbor.git
+```
+
+After this you should see a directory where your project files will be. 
 
 ### Adding and Committing Files
 Adding and committing files is the concept of adding and changes made and then commiting them to a git head which can then be pushed up to a remote repo.
