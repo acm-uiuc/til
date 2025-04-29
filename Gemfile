@@ -1,16 +1,9 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '3.3.1'
+gem 'jekyll', '4.4.1'
 
 group :jekyll_plugins do
-  gem 'jekyll-sitemap', '0.11.0'
-  gem 'jekyll-seo-tag', '2.0.0'
-  gem 'jekyll-feed', '0.7.2'
-end
-
-group :testing do 
-  gem 'rspec'
-  gem 'mdspell'
-  gem 'html-proofer'
-  gem 'mixlib-cli'
+  gem 'jekyll-sitemap', '1.4.0'
+  gem 'jekyll-seo-tag', '2.8.0'
+  gem 'jekyll-feed', '0.17.0'
 end
